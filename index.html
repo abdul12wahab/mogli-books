@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="ps" dir="rtl">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Mogli — Bücher</title>
-<meta name="description" content="Bücher von Mogli. Geschichten über Rizq, Glauben und das Leben in den Bergen Afghanistans.">
+<title>موگلي — کتابونه</title>
+<meta name="description" content="د موگلي کتابونه. د روزي، باور او د غرونو او پردیسۍ د ژوند کیسې، وړیا د لوستلو لپاره.">
 <style>
   :root {
     --bg: #faf7f2;
@@ -17,23 +17,32 @@
   * { box-sizing: border-box; }
   body {
     margin: 0;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    font-family: 'BookFont', 'Noto Naskh Arabic', serif;
     background: var(--bg);
     color: var(--ink);
-    line-height: 1.6;
+    line-height: 1.8;
+  }
+  @font-face {
+    font-family: 'BookFont';
+    src: url('fonts/NotoNaskhArabic-Regular.ttf') format('truetype');
+    font-weight: normal;
+  }
+  @font-face {
+    font-family: 'BookFont';
+    src: url('fonts/NotoNaskhArabic-Bold.ttf') format('truetype');
+    font-weight: bold;
   }
   header {
     text-align: center;
     padding: 4.5rem 1.5rem 3rem;
   }
   header h1 {
-    font-size: 2.4rem;
-    margin: 0 0 0.5rem;
-    letter-spacing: 0.02em;
+    font-size: 2.6rem;
+    margin: 0 0 0.6rem;
   }
   header p {
     color: var(--muted);
-    font-size: 1.1rem;
+    font-size: 1.15rem;
     max-width: 560px;
     margin: 0 auto;
   }
@@ -73,26 +82,25 @@
     flex-direction: column;
     gap: 0.6rem;
     flex: 1;
+    text-align: right;
   }
   .card-body .lang {
     font-size: 0.75rem;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
+    letter-spacing: 0.04em;
     color: var(--muted);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   }
   .card-body h2 {
     margin: 0;
-    font-size: 1.3rem;
-    direction: rtl;
+    font-size: 1.4rem;
   }
   .card-body .subtitle {
     margin: 0;
-    font-size: 0.95rem;
+    font-size: 1rem;
     color: var(--muted);
-    direction: rtl;
   }
   .card-body .desc {
-    font-size: 0.95rem;
+    font-size: 1.02rem;
     color: var(--ink);
     margin: 0.2rem 0 0.6rem;
   }
@@ -107,7 +115,7 @@
     padding: 0.6rem 0.8rem;
     border-radius: 8px;
     text-decoration: none;
-    font-size: 0.9rem;
+    font-size: 1rem;
     font-weight: 600;
     transition: opacity 0.15s ease;
   }
@@ -125,34 +133,34 @@
     text-align: center;
     padding: 2rem 1.5rem 3rem;
     color: var(--muted);
-    font-size: 0.85rem;
+    font-size: 0.9rem;
   }
 </style>
 </head>
 <body>
 <header>
-  <h1>Mogli</h1>
-  <p>Geschichten über Rizq, Glauben und das Leben zwischen Bergen und Fremde. Kostenlos zu lesen.</p>
+  <h1>موگلي</h1>
+  <p>د روزي، باور، او د غرونو او پردیسۍ د ژوند کیسې. ټول کتابونه وړیا دي.</p>
 </header>
 <main>
   <div class="grid">
     <div class="card">
-      <img src="img/rizq-cover.jpg" alt="Cover: د روزي لار">
+      <img src="img/rizq-cover.jpg" alt="پوښ: د روزي لار">
       <div class="card-body">
-        <span class="lang">پښتو · Paschtu</span>
+        <span class="lang">پښتو</span>
         <h2>د روزي لار</h2>
         <p class="subtitle">یو کیسه د کونړ غرونو نه</p>
-        <p class="desc">Die Geschichte von Yar Mohammad — ein Hirtenjunge, der auszieht, um sein Glück zu machen, und unterwegs lernt, was Rizq wirklich bedeutet.</p>
+        <p class="desc">د یار محمد کیسه — یو شپون هلک چې د خپل بخت لپاره کلی پریږدي، او په لاره کې زده کوي چې روزي په ریښتیا کې څه شی دی.</p>
         <div class="actions">
-          <a class="btn btn-primary" href="lesen/der-weg-des-rizq.html">Online lesen</a>
-          <a class="btn btn-secondary" href="books/der-weg-des-rizq.pdf">PDF</a>
+          <a class="btn btn-primary" href="lesen/der-weg-des-rizq.html">آنلاین لوستل</a>
+          <a class="btn btn-secondary" href="books/der-weg-des-rizq.pdf">PDF ډاونلوډ</a>
         </div>
       </div>
     </div>
   </div>
 </main>
 <footer>
-  © <span id="year"></span> Mogli — Alle Bücher kostenlos.
+  © <span id="year"></span> موگلي — ټول کتابونه وړیا دي.
 </footer>
 <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
 </body>
