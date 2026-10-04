@@ -40,3 +40,6 @@ Lesen-Seite-Status: erstellt, lesen/da-sodagari-zehniyat.html
 Karten-Status: eingefuegt in index.html (alle 3 Teile vorhanden)
 Naechstes Thema: Roman
 RUN END 2026-10-04T06:40:00Z STATUS=SUCCESS DETAILS=Text+Cover+PDF+LesenSeite+Karte alle fertig
+
+Netzwerktest: 000 (403 proxy-blockiert, direkte externe URLs gesperrt)
+RUN START 2026-10-04T10:00:00Z Thema=Roman
