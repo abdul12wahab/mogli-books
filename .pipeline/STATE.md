@@ -22,3 +22,6 @@ Lesen-Seite-Status: erstellt, lesen/da-dzan-jawrawalo-lar.html
 Karten-Status: noch nicht eingefuegt (Cover fehlt, Regel: alle 3 Teile benoetigt)
 Naechstes Thema: Business
 RUN END 2026-10-04T01:14:43Z STATUS=PARTIAL DETAILS=Text+PDF+LesenSeite fertig, Cover fehlt wegen Proxy-Blockierung
+
+Netzwerktest: 000 (403 proxy-blockiert)
+RUN START 2026-10-04T06:10:00Z Thema=Business
