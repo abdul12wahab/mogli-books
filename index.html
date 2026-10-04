@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>موگلي: وړیا کتابونه او پوهه</title>
-<meta name="description" content="د موگلي کتابونه. زموږ موخه دا ده چې پوهه وړیا وړاندې کړو او د خلکو سره مرسته وکړو.">
+<title>کتابخانه: وړیا کتابونه او پوهه</title>
+<meta name="description" content="د کتابخانې کتابونه. زموږ موخه دا ده چې پوهه وړیا وړاندې کړو او د خلکو سره مرسته وکړو.">
 <style>
   :root {
     --bg: #faf7f2;
@@ -106,15 +106,6 @@
     max-width: 640px;
     margin: 0 auto 2.5rem;
   }
-  .section-lead .de {
-    display: block;
-    margin-top: 0.6rem;
-    font-size: 0.85rem;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-    color: #9a9284;
-    direction: ltr;
-  }
-
   .grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
@@ -245,25 +236,14 @@
     border-radius: 6px;
     border: 1px solid var(--border);
     box-shadow: 0 4px 14px rgba(0,0,0,0.12);
-    display: flex;
-    align-items: center;
-    justify-content: center;
     overflow: hidden;
-  }
-  .flag-current {
     background: #ffffff;
-    padding: 0.6rem;
   }
-  .flag-current .shahada {
-    font-family: 'BookFont', 'Noto Naskh Arabic', serif;
-    font-size: 0.8rem;
-    color: #000;
-    line-height: 1.6;
-    text-align: center;
-    direction: rtl;
-  }
-  .flag-tricolor {
-    background: linear-gradient(to right, #000000 0%, #000000 33.33%, #d32011 33.33%, #d32011 66.66%, #007a3d 66.66%, #007a3d 100%);
+  .flag img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
   }
   .flag-label {
     font-size: 0.95rem;
@@ -273,23 +253,14 @@
   .flag-caption {
     font-size: 1.5rem;
     font-weight: bold;
-    margin: 0 0 0.5rem;
-  }
-  .flag-caption .de {
-    display: block;
-    margin-top: 0.5rem;
-    font-size: 0.85rem;
-    font-weight: normal;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-    color: #9a9284;
-    direction: ltr;
+    margin: 0;
   }
 </style>
 </head>
 <body>
 
 <nav>
-  <a class="brand" href="#top">موگلي</a>
+  <a class="brand" href="#top">کتابخانه</a>
   <div class="links">
     <a href="#books">کتابونه</a>
     <a href="#mission">موخه</a>
@@ -298,7 +269,7 @@
 </nav>
 
 <div id="top" class="hero">
-  <h1>موگلي</h1>
+  <h1>کتابخانه</h1>
   <p>پوهه او مرسته، وړیا دي. د روزي، باور او د ژوند کیسې چې هر چا ته رسېدلی شي.</p>
   <a class="cta" href="#books">کتابونه وګورئ</a>
 </div>
@@ -307,20 +278,19 @@
   <div class="wrap">
     <div class="flags-wrap">
       <div class="flag-box">
-        <div class="flag flag-current">
-          <span class="shahada">لا إله إلا الله<br>محمد رسول الله</span>
+        <div class="flag">
+          <img src="img/flag-emirate.svg" alt="د افغانستان اسلامي امارت بیرغ">
         </div>
         <p class="flag-label">اوسنی بیرغ</p>
       </div>
       <div class="flag-box">
-        <div class="flag flag-tricolor"></div>
+        <div class="flag">
+          <img src="img/flag-republic.svg" alt="د دریو رنګونو بیرغ">
+        </div>
         <p class="flag-label">د دریو رنګونو بیرغ</p>
       </div>
     </div>
-    <p class="flag-caption">
-      د هیواد مینه په زړه کې ده
-      <span class="de">Liebe zur Heimat ist im Herzen.</span>
-    </p>
+    <p class="flag-caption">د هیواد مینه په زړه کې ده</p>
   </div>
 </section>
 
@@ -329,7 +299,6 @@
     <h2 class="section-title">زموږ موخه</h2>
     <p class="section-lead">
       زموږ موخه دا ده چې پوهه وړیا وړاندې کړو او د خلکو سره مرسته وکړو. یوازې هغه څه چې موږ ته اړتیا لرو، ستاسو ملاتړ دی.
-      <span class="de">Unser Ziel: kostenlos Wissen anbieten und helfen. Alles, was wir brauchen, ist eure Unterstützung.</span>
     </p>
   </div>
 </section>
@@ -363,17 +332,16 @@
     <div class="donate-box">
       <p>
         که تاسو غواړئ مرسته وکړئ، موږ هڅه کوو چې مرستې په افغانستان کې په بشپړه روڼتیا سره، د ثبوت ویډیوګانو سره ووېشو.
-        <span class="de" style="display:block; margin-top:0.8rem;">Falls ihr spenden möchtet: Wir verteilen Spenden in Afghanistan transparent, dokumentiert mit Beweisvideos.</span>
       </p>
       <a class="btn-donate" href="https://www.paypal.com/ncp/payment/BYNNSZ3VL7T5L" target="_blank" rel="noopener">د PayPal سره مرسته وکړئ</a>
-      <p class="donate-note">پوښتنې لرئ؟ <a href="mailto:abdulwahabmaghol@gmail.com?subject=مرسته%20/%20Spende">دلته اړیکه ونیسئ</a>.</p>
+      <p class="donate-note">پوښتنې لرئ؟ <a href="mailto:abdulwahabmaghol@gmail.com?subject=مرسته">دلته اړیکه ونیسئ</a>.</p>
     </div>
   </div>
 </section>
 
 <footer>
   <p class="tagline">پوهه او مرسته، وړیا دي.</p>
-  <p>© <span id="year"></span> موگلي · <a href="mailto:abdulwahabmaghol@gmail.com">اړیکه</a></p>
+  <p>© <span id="year"></span> کتابخانه · <a href="mailto:abdulwahabmaghol@gmail.com">اړیکه</a></p>
 </footer>
 
 <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
