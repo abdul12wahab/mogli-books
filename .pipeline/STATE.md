@@ -43,3 +43,19 @@ RUN END 2026-10-04T06:40:00Z STATUS=SUCCESS DETAILS=Text+Cover+PDF+LesenSeite+Ka
 
 Netzwerktest: 000 (403 proxy-blockiert, direkte externe URLs gesperrt)
 RUN START 2026-10-04T10:00:00Z Thema=Roman
+
+## Lauf 2026-10-04 (Roman) Zusammenfassung
+Datum: 2026-10-04T18:30:00Z
+Thema: Roman
+Slug: da-kali-khat
+Titel: د کلي خط
+Untertitel: د یوه ورک نیکه کیسه
+Hauptfigur: نوروز (Nowruz), 22, Universitätsstudent in Jalalabad
+Kapitel: 1 (لومړی باب: لیک له غرونو نه)
+Kapitel-Status: abgeschlossen, ca. 750 Woerter Pashto
+Cover-Status: erstellt (38KB PNG, raw.githubusercontent.com/fluentui-emoji, snow-capped mountain), img/da-kali-khat-cover.jpg
+PDF-Status: erstellt (16KB, 3 Seiten), books/da-kali-khat.pdf
+Lesen-Seite-Status: erstellt mit Cover, lesen/da-kali-khat.html
+Karten-Status: eingefuegt in index.html (alle 3 Teile vorhanden)
+Naechstes Thema: Persoenlichkeitsentwicklung (da-dzan-jawrawalo-lar Cover fehlt noch, erneut versuchen)
+RUN END 2026-10-04T18:30:00Z STATUS=SUCCESS DETAILS=Text+Cover+PDF+LesenSeite+Karte alle fertig
