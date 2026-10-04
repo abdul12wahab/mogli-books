@@ -12,8 +12,10 @@
     --ink: #1a1a1a;
     --muted: #6b6456;
     --accent: #a9532f;
+    --gold: #c9a227;
     --card: #ffffff;
     --border: #e8e0d4;
+    --divider: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='14' viewBox='0 0 120 14'%3E%3Cline x1='0' y1='7' x2='46' y2='7' stroke='%23c9a227' stroke-width='1.3'/%3E%3Cline x1='74' y1='7' x2='120' y2='7' stroke='%23c9a227' stroke-width='1.3'/%3E%3Crect x='55' y='2' width='10' height='10' transform='rotate(45 60 7)' fill='%23c9a227'/%3E%3C/svg%3E");
   }
   * { box-sizing: border-box; }
   html { scroll-behavior: smooth; }
@@ -30,11 +32,19 @@
   body {
     margin: 0;
     font-family: 'BookFont', 'Noto Naskh Arabic', serif;
-    background: var(--bg);
+    background:
+      radial-gradient(ellipse at top, rgba(201,162,39,0.07), transparent 60%),
+      var(--bg);
     color: var(--ink);
     line-height: 1.8;
   }
   a { color: inherit; }
+  .ornament {
+    display: block;
+    height: 14px;
+    background: var(--divider) center / 120px 14px no-repeat;
+    margin: 0 auto;
+  }
 
   nav {
     position: sticky;
@@ -52,7 +62,11 @@
     font-size: 1.3rem;
     font-weight: bold;
     text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
   }
+  nav .brand svg { flex-shrink: 0; }
   nav .links {
     display: flex;
     gap: 1.6rem;
@@ -65,13 +79,29 @@
   nav .links a:hover { color: var(--accent); }
 
   .hero {
+    position: relative;
     text-align: center;
     padding: 5.5rem 1.5rem 4rem;
+    overflow: hidden;
+  }
+  .hero::before {
+    content: "";
+    position: absolute;
+    top: -180px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 640px;
+    height: 360px;
+    background: radial-gradient(ellipse, rgba(169,83,47,0.1), transparent 70%);
+    pointer-events: none;
   }
   .hero h1 {
+    position: relative;
     font-size: 2.8rem;
-    margin: 0 0 0.7rem;
+    margin: 0 0 0.9rem;
+    letter-spacing: 0.01em;
   }
+  .hero .ornament { margin-bottom: 1.3rem; }
   .hero p {
     color: var(--muted);
     font-size: 1.2rem;
@@ -97,7 +127,15 @@
   .section-title {
     font-size: 1.9rem;
     text-align: center;
-    margin: 0 0 1rem;
+    margin: 0 0 0.7rem;
+  }
+  .section-title::after {
+    content: "";
+    display: block;
+    width: 120px;
+    height: 14px;
+    margin: 0.7rem auto 0;
+    background: var(--divider) center / 120px 14px no-repeat;
   }
   .section-lead {
     text-align: center;
@@ -112,6 +150,7 @@
     gap: 2rem;
   }
   .card {
+    position: relative;
     background: var(--card);
     border: 1px solid var(--border);
     border-radius: 14px;
@@ -120,6 +159,16 @@
     flex-direction: column;
     box-shadow: 0 4px 16px rgba(0,0,0,0.04);
     transition: transform 0.15s ease, box-shadow 0.15s ease;
+  }
+  .card::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 5px;
+    background: linear-gradient(var(--accent), var(--gold));
+    z-index: 1;
   }
   .card:hover {
     transform: translateY(-3px);
@@ -140,9 +189,14 @@
     text-align: right;
   }
   .card-body .lang {
-    font-size: 0.75rem;
+    align-self: flex-end;
+    font-size: 0.7rem;
     letter-spacing: 0.04em;
-    color: var(--muted);
+    color: var(--accent);
+    background: var(--bg-alt);
+    border: 1px solid var(--border);
+    padding: 0.2rem 0.7rem;
+    border-radius: 999px;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   }
   .card-body h3 {
@@ -179,13 +233,24 @@
   .btn-secondary { background: transparent; color: var(--accent); border: 1px solid var(--accent); }
 
   .donate-box {
+    position: relative;
     background: var(--card);
     border: 1px solid var(--border);
     border-radius: 16px;
-    padding: 2.2rem 2rem;
+    padding: 2.4rem 2rem 2.2rem;
     text-align: center;
     max-width: 560px;
     margin: 0 auto;
+    overflow: hidden;
+  }
+  .donate-box::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 5px;
+    background: linear-gradient(90deg, var(--accent), var(--gold), var(--accent));
   }
   .donate-box p { font-size: 1.05rem; margin: 0 0 1.5rem; }
   .donate-box .btn-donate {
@@ -212,30 +277,43 @@
     font-size: 0.9rem;
     border-top: 1px solid var(--border);
   }
+  footer .ornament { margin-bottom: 1rem; }
   footer .tagline { margin-bottom: 0.6rem; }
   footer a { color: var(--accent); text-decoration: none; }
 
-  #flag { text-align: center; padding: 3rem 1.5rem 3.5rem; }
+  #flag { text-align: center; padding: 3.5rem 1.5rem 4rem; }
+  .flag-panel {
+    display: inline-block;
+    padding: 2.2rem 2.5rem 1.8rem;
+    border: 1px solid var(--border);
+    border-radius: 18px;
+    background: linear-gradient(180deg, var(--bg-alt), var(--bg));
+    margin: 0 auto 1.8rem;
+  }
   .flags-wrap {
     display: flex;
     justify-content: center;
-    align-items: flex-start;
-    gap: 2.5rem;
+    align-items: flex-end;
+    gap: 3rem;
     flex-wrap: wrap;
-    margin-bottom: 1.6rem;
   }
   .flag-box {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 0.6rem;
+  }
+  .flag-box::before {
+    content: "";
+    width: 2px;
+    height: 22px;
+    background: var(--gold);
   }
   .flag {
     width: 160px;
     height: 100px;
-    border-radius: 6px;
+    border-radius: 2px;
     border: 1px solid var(--border);
-    box-shadow: 0 4px 14px rgba(0,0,0,0.12);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.16);
     overflow: hidden;
     background: #ffffff;
   }
@@ -244,11 +322,6 @@
     height: 100%;
     object-fit: cover;
     display: block;
-  }
-  .flag-label {
-    font-size: 0.95rem;
-    color: var(--muted);
-    margin: 0;
   }
   .flag-caption {
     font-size: 1.5rem;
@@ -260,7 +333,13 @@
 <body>
 
 <nav>
-  <a class="brand" href="#top">کتابخانه</a>
+  <a class="brand" href="#top">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M3 5.2c2.3-1 5-1.2 7 .3v13c-2-1.5-4.7-1.3-7-.3V5.2Z" fill="#a9532f"/>
+      <path d="M21 5.2c-2.3-1-5-1.2-7 .3v13c2-1.5 4.7-1.3 7-.3V5.2Z" fill="#c9a227"/>
+    </svg>
+    کتابخانه
+  </a>
   <div class="links">
     <a href="#books">کتابونه</a>
     <a href="#mission">موخه</a>
@@ -270,21 +349,24 @@
 
 <div id="top" class="hero">
   <h1>کتابخانه</h1>
+  <span class="ornament"></span>
   <p>پوهه او مرسته، وړیا دي. د روزي، باور او د ژوند کیسې چې هر چا ته رسېدلی شي.</p>
   <a class="cta" href="#books">کتابونه وګورئ</a>
 </div>
 
 <section id="flag">
   <div class="wrap">
-    <div class="flags-wrap">
-      <div class="flag-box">
-        <div class="flag">
-          <img src="img/flag-emirate.svg" alt="د افغانستان اسلامي امارت بیرغ">
+    <div class="flag-panel">
+      <div class="flags-wrap">
+        <div class="flag-box">
+          <div class="flag">
+            <img src="img/flag-emirate.svg" alt="د افغانستان اسلامي امارت بیرغ">
+          </div>
         </div>
-      </div>
-      <div class="flag-box">
-        <div class="flag">
-          <img src="img/flag-republic.svg" alt="د دریو رنګونو بیرغ">
+        <div class="flag-box">
+          <div class="flag">
+            <img src="img/flag-republic.svg" alt="د دریو رنګونو بیرغ">
+          </div>
         </div>
       </div>
     </div>
@@ -338,6 +420,7 @@
 </section>
 
 <footer>
+  <span class="ornament"></span>
   <p class="tagline">پوهه او مرسته، وړیا دي.</p>
   <p>© <span id="year"></span> کتابخانه · <a href="mailto:abdulwahabmaghol@gmail.com">اړیکه</a></p>
 </footer>
