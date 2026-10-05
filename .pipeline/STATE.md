@@ -80,3 +80,18 @@ RUN END 2026-10-05T06:37:00Z STATUS=SUCCESS DETAILS=Text+Cover+PDF+LesenSeite+Ka
 
 Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
 RUN START 2026-10-05T18:20:00Z Thema=Business
+
+## Lauf 2026-10-05 (Business Kapitel 2) Zusammenfassung
+Datum: 2026-10-05T18:40:00Z
+Thema: Business
+Slug: da-sodagari-zehniyat
+Titel: د سوداګرۍ ذهنیت
+Untertitel: د بریالیتوب لپاره پنځه مهم اصول
+Kapitel: 2 (دوهم باب: د مشتري باور، د سوداګرۍ ریښه)
+Kapitel-Status: abgeschlossen, ca. 800 Woerter Pashto
+Cover-Status: bereits vorhanden (img/da-sodagari-zehniyat-cover.jpg, 42KB), kein erneuter Download noetig
+PDF-Status: aktualisiert (73KB, 4 Seiten, beide Kapitel), books/da-sodagari-zehniyat.pdf
+Lesen-Seite-Status: aktualisiert mit Kapitel 2, lesen/da-sodagari-zehniyat.html
+Karten-Status: bereits korrekt eingefuegt in index.html (alle 3 Teile vorhanden)
+Naechstes Thema: Roman (da-kali-khat, Kapitel 2)
+RUN END 2026-10-05T18:40:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite fertig, Karte bereits vorhanden
