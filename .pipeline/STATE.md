@@ -59,3 +59,6 @@ Lesen-Seite-Status: erstellt mit Cover, lesen/da-kali-khat.html
 Karten-Status: eingefuegt in index.html (alle 3 Teile vorhanden)
 Naechstes Thema: Persoenlichkeitsentwicklung (da-dzan-jawrawalo-lar Cover fehlt noch, erneut versuchen)
 RUN END 2026-10-04T18:30:00Z STATUS=SUCCESS DETAILS=Text+Cover+PDF+LesenSeite+Karte alle fertig
+
+Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com, raw.githubusercontent.com 404)
+RUN START 2026-10-05T06:25:50Z Thema=Persoenlichkeitsentwicklung
