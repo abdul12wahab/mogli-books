@@ -62,3 +62,18 @@ RUN END 2026-10-04T18:30:00Z STATUS=SUCCESS DETAILS=Text+Cover+PDF+LesenSeite+Ka
 
 Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com, raw.githubusercontent.com 404)
 RUN START 2026-10-05T06:25:50Z Thema=Persoenlichkeitsentwicklung
+
+## Lauf 2026-10-05 (Persoenlichkeitsentwicklung) Zusammenfassung
+Datum: 2026-10-05T06:37:00Z
+Thema: Persoenlichkeitsentwicklung
+Slug: da-dzan-jawrawalo-lar
+Titel: د ځان جوړولو لار
+Untertitel: د پاکو عادتونو قوت
+Kapitel: 2 (دوهم باب: د عادت جوړولو هنر)
+Kapitel-Status: abgeschlossen, ca. 900 Woerter Pashto
+Cover-Status: erstellt (50KB JPEG, SVG generiert + cairosvg + ImageMagick konvertiert), img/da-dzan-jawrawalo-lar-cover.jpg
+PDF-Status: aktualisiert (69KB, 5 Seiten, beide Kapitel), books/da-dzan-jawrawalo-lar.pdf
+Lesen-Seite-Status: aktualisiert mit Cover und Kapitel 2, lesen/da-dzan-jawrawalo-lar.html
+Karten-Status: eingefuegt in index.html (alle 3 Teile vorhanden)
+Naechstes Thema: Business (da-sodagari-zehniyat, Kapitel 2)
+RUN END 2026-10-05T06:37:00Z STATUS=SUCCESS DETAILS=Text+Cover+PDF+LesenSeite+Karte alle fertig
