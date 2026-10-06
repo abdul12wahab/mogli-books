@@ -98,3 +98,18 @@ RUN END 2026-10-05T18:40:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite fertig, 
 
 Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
 RUN START 2026-10-06T06:19:00Z Thema=Roman
+
+## Lauf 2026-10-06 (Roman Kapitel 2) Zusammenfassung
+Datum: 2026-10-06T06:30:00Z
+Thema: Roman
+Slug: da-kali-khat
+Titel: د کلي خط
+Untertitel: د یوه ورک نیکه کیسه
+Kapitel: 2 (دوهم باب: د اسمار سپینه سهار)
+Kapitel-Status: abgeschlossen, ca. 850 Woerter Pashto
+Cover-Status: bereits vorhanden (img/da-kali-khat-cover.jpg, 38KB), kein erneuter Download noetig
+PDF-Status: aktualisiert (22KB, 7 Seiten, beide Kapitel), books/da-kali-khat.pdf
+Lesen-Seite-Status: aktualisiert mit Kapitel 2, lesen/da-kali-khat.html
+Karten-Status: bereits korrekt eingefuegt in index.html (alle 3 Teile vorhanden)
+Naechstes Thema: Persoenlichkeitsentwicklung (da-dzan-jawrawalo-lar, Kapitel 3)
+RUN END 2026-10-06T06:30:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite fertig, Karte bereits vorhanden
