@@ -6,11 +6,12 @@
 | 2026-10-05   | Business                   | 1       | Roman                       |
 | 2026-10-06   | Roman                      | 1       | Persoenlichkeitsentwicklung |
 | 2026-10-07   | Persoenlichkeitsentwicklung | 2       | Business                    |
+| 2026-10-08   | Business                    | 2       | Roman                       |
 
 ## Kapitelstand je Thema
 
 - Persoenlichkeitsentwicklung: Kapitel 2
-- Business: Kapitel 1
+- Business: Kapitel 2
 - Roman: Kapitel 1
 
 ## Roman-Metadaten
