@@ -167,3 +167,6 @@ Lesen-Seite-Status: aktualisiert mit Kapitel 3, lesen/da-kali-khat.html
 Karten-Status: bereits korrekt eingefuegt in index.html (alle 3 Teile vorhanden)
 Naechstes Thema: Persoenlichkeitsentwicklung (da-dzan-jawrawalo-lar, Kapitel 4)
 RUN END 2026-10-07T18:30:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite fertig, Karte bereits vorhanden
+
+Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
+RUN START 2026-10-08T06:20:12Z Thema=Persoenlichkeitsentwicklung
