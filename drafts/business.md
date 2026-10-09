@@ -49,3 +49,45 @@ Der Weg zur richtigen Nische führt selten über abstrakte Marktanalysen. Er fü
 Wer sich diese Fragen systematisch stellt und dabei seinen eigenen Erfahrungshintergrund einbezieht, landet meistens nicht bei einer fremden Idee, die er sich ausgedacht hat. Er landet bei einem Problem, das er selbst kennt. Und das ist der beste Ausgangspunkt: nicht das Marktpotenzial, das jemand anderes errechnet hat, sondern die eigene Frustration über eine Lösung, die nicht gut genug war.
 
 Das erste Kapitel hält diesen Grundgedanken fest: Enge Nischen ermöglichen klare Positionierung, echtes Vertrauen beim Kunden und verlässliche Rückmeldungen vom Markt. Sie sind keine Einschränkung. Sie sind die Grundlage, auf der ein tragfähiges Unternehmen gebaut werden kann.
+
+---
+
+## Kapitel 2: Was der Preis wirklich sagt
+
+Wer eine Nische gefunden hat, steht früher oder später vor einer Frage, die so simpel klingt, dass man sie unterschätzt: Was soll das Angebot kosten? Die meisten Gründer beantworten diese Frage, indem sie ihre Kosten zusammenzählen und einen Aufschlag drauflegen. Das ist nachvollziehbar, aber es führt fast immer zu Preisen, die entweder zu niedrig sind, um das Unternehmen tragfähig zu machen, oder zu hoch, ohne dass der Kunde versteht, warum.
+
+Das grundlegende Problem ist, dass Kosten und Wert zwei verschiedene Dinge sind. Was eine Dienstleistung kostet, hat wenig damit zu tun, was sie einem Kunden wert ist. Ein Unternehmensberater, der einem mittelständischen Betrieb hilft, einen Engpass im Produktionsprozess zu beseitigen und damit jährlich 200.000 Euro einzusparen, schafft einen konkreten, messbaren Nutzen. Wenn er für diese Arbeit drei Tage braucht und seinen Tagessatz nach Stundenkosten plus Marge berechnet, landet er vielleicht bei 4.500 Euro. Was das Unternehmen für diese Leistung zahlen würde, wenn es den Nutzen kennt, ist eine ganz andere Zahl.
+
+**Der Unterschied zwischen Preis und Wert**
+
+Wertbasierte Preisgestaltung bedeutet, den Preis nicht an den eigenen Aufwand zu knüpfen, sondern an den Nutzen, den der Kunde empfängt. Das klingt einleuchtend, scheitert in der Praxis aber an einem spezifischen Problem: Der Nutzen ist selten sofort sichtbar, und noch seltener wird er vom Anbieter aktiv kommuniziert.
+
+Wer seinen Preis nicht erklären kann, macht ihn zur einzigen Vergleichsgröße. Der Kunde hat keine andere Wahl, als andere Angebote daneben zu legen und das günstigste zu nehmen. Wer seinen Preis mit dem konkreten Ergebnis verknüpft, das der Kunde damit kauft, verändert das Gespräch. Er verkauft nicht mehr seine Zeit oder sein Produkt, sondern das Resultat.
+
+Das gelingt nur, wenn man genau weiß, welches Problem die Zielgruppe wirklich hat. Und hier schließt sich der Kreis zur Nischenstrategie aus dem ersten Kapitel: Die enge Spezialisierung, die dort als Grundlage beschrieben wurde, ist auch die Voraussetzung für funktionierende Preissetzung. Wer eine homogene Zielgruppe bedient, versteht deren Situation. Man kennt die Sprache, man kennt die Frustration, man kennt den Unterschied zwischen einem Problem, das lästig ist, und einem, das existenzbedrohend ist. Erst dieses Wissen erlaubt es, einen Preis zu nennen, der sich nach Ergebnis anfühlt und nicht nach Kostenkalkulation.
+
+**Was Preise über Positionierung verraten**
+
+Ein Preis ist kein neutrales Signal. Er sagt etwas darüber aus, wer das Angebot für wen gemacht hat. Ein sehr niedriger Preis sendet eine Botschaft, die oft nicht beabsichtigt ist: dass das Angebot austauschbar ist, dass der Anbieter unsicher über seinen eigenen Wert ist, oder dass die Zielgruppe nicht die ist, die für Qualität zahlt. Ein angemessener Preis, der sich durch ein klares Nutzenversprechen begründen lässt, zieht Kunden an, die den Wert verstehen und bereit sind, ihn zu bezahlen. Diese Kunden sind meistens auch die angenehmeren Kunden: Sie erwarten Qualität, sie vertrauen dem Anbieter, und sie beschweren sich seltener über Kleinigkeiten.
+
+Die Entscheidung, den Preis niedrig zu halten, um möglichst viele Kunden zu gewinnen, führt oft zu einem Kundenstamm, der zwar groß ist, aber viel Arbeit macht und wenig zahlt. Das Gegenteil ist keine Überheblichkeit, sondern Strategie: Wer seinen Preis bewusst höher ansetzt und ihn mit substanziellem Nutzen begründen kann, filtert heraus, wer wirklich zu ihm passt. Er investiert seine Zeit in Kunden, mit denen die Zusammenarbeit funktioniert.
+
+**Die psychologische Seite des Preises**
+
+Es gibt eine Beobachtung, die jeder aus eigener Erfahrung kennt: Ein teures Produkt, das keine Ergebnisse liefert, macht wütend. Ein günstiges Produkt, das ebenfalls keine Ergebnisse liefert, wird achselzuckend weggelegt. Der Schmerz beim Bezahlen verändert, wie stark man das, wofür man bezahlt hat, auch wirklich nutzt. Studien aus dem Bereich der Konsumentenpsychologie zeigen diesen Effekt in unterschiedlichen Kontexten: Menschen, die mehr für eine Therapie bezahlen, nehmen sie ernster. Kunden, die mehr für Software ausgeben, implementieren sie gründlicher.
+
+Für Anbieter von Dienstleistungen und Beratung ist das eine relevante Erkenntnis. Ein Preis, der den Kunden in eine ernsthafte Kaufentscheidung zwingt, verändert auch, wie er mit dem Angebot umgeht. Er bereitet sich besser vor, er setzt die Empfehlungen konsequenter um, er sieht die Zusammenarbeit als Investition. Das führt zu besseren Ergebnissen auf beiden Seiten, was wiederum die Grundlage für Weiterempfehlungen ist.
+
+**Warum Preiserhöhungen so schwer fallen**
+
+Eine Preiserhöhung um einen kleinen Prozentsatz kann den Gewinn eines Unternehmens überproportional steigern, weil die meisten Kosten fix sind und nicht mitwachsen. Trotzdem zögern viele Unternehmer, ihre Preise anzupassen, selbst wenn die eigenen Kosten steigen oder wenn das Angebot deutlich besser geworden ist als zu Beginn.
+
+Der Grund ist selten kalkulatorisch. Er ist emotional. Eine Preiserhöhung fühlt sich wie ein Test an: Werden die Kunden bleiben? Werden sie das akzeptieren? Was, wenn sie zur Konkurrenz wechseln? Diese Fragen sind berechtigt. Aber sie werden zu selten wirklich beantwortet, nämlich durch das Gespräch mit den eigenen Kunden. Wer seine Zielgruppe kennt, weiß, welche Kunden bleiben werden und welche preissensitiv sind. Wer das nicht weiß, hat das Ohr zu wenig an der Zielgruppe.
+
+Preiserhöhungen funktionieren am besten, wenn sie kommuniziert werden, bevor sie wirksam werden, wenn sie mit einer nachvollziehbaren Begründung verbunden sind, und wenn sie schrittweise erfolgen. Kunden, die den Wert des Angebots verstehen, akzeptieren Anpassungen. Kunden, die nur den Preis sehen, wechseln ohnehin zum nächsten günstigen Anbieter, sobald sich die Gelegenheit ergibt. Deren Abgang ist kein Verlust.
+
+**Der Preis als Handwerk**
+
+Preissetzung ist kein einmaliger Akt. Sie ist ein fortlaufender Prozess, der Beobachtung voraussetzt: Wie reagieren Kunden auf das Angebot? Wo entstehen Reibungspunkte? Welche Einwände kommen immer wieder? Welche Kunden kaufen sofort, ohne zu verhandeln? Diese Signale zeigen, ob der Preis in einem sinnvollen Verhältnis zum wahrgenommenen Wert steht.
+
+Wer eine enge Nische bedient, hat hier einen strukturellen Vorteil. Die kurzen Feedback-Schleifen, die im ersten Kapitel als Merkmal der Nischenstrategie beschrieben wurden, gelten auch für die Preisgestaltung. Man bekommt schneller heraus, was funktioniert. Man kann anpassen, ohne einen ganzen Markt zu verlieren. Und man baut schrittweise ein Gefühl dafür auf, was der eigene Wert wirklich ist. Das ist eine Kompetenz, die sich auszahlt, nicht nur finanziell.
