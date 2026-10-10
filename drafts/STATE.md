@@ -8,10 +8,11 @@
 | 2026-10-07   | Persoenlichkeitsentwicklung | 2       | Business                    |
 | 2026-10-08   | Business                    | 2       | Roman                       |
 | 2026-10-09   | Roman                       | 2       | Persoenlichkeitsentwicklung |
+| 2026-10-10   | Persoenlichkeitsentwicklung | 3       | Business                    |
 
 ## Kapitelstand je Thema
 
-- Persoenlichkeitsentwicklung: Kapitel 2
+- Persoenlichkeitsentwicklung: Kapitel 3
 - Business: Kapitel 2
 - Roman: Kapitel 2
 
