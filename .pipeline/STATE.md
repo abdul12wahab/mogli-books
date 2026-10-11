@@ -289,3 +289,18 @@ Naechstes Thema: Business (da-sodagari-zehniyat, Kapitel 6)
 RUN END 2026-10-11T06:25:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite fertig, Karte bereits vorhanden
 Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
 RUN START 2026-10-11T18:18:00Z Thema=Business
+
+## Lauf 2026-10-11 (Business Kapitel 6) Zusammenfassung
+Datum: 2026-10-11T18:35:00Z
+Thema: Business
+Slug: da-sodagari-zehniyat
+Titel: د سوداګرۍ ذهنیت
+Untertitel: د بریالیتوب لپاره شپږ مهم اصول
+Kapitel: 6 (شپږم باب: مشرتابه او ټیم جوړول)
+Kapitel-Status: abgeschlossen, ca. 900 Woerter Pashto (Fuehrung, Teamarbeit, Vertrauen)
+Cover-Status: bereits vorhanden (img/da-sodagari-zehniyat-cover.jpg, 42KB)
+PDF-Status: aktualisiert (23KB, 7 Seiten, alle 6 Kapitel), books/da-sodagari-zehniyat.pdf
+Lesen-Seite-Status: aktualisiert mit Kapitel 6, lesen/da-sodagari-zehniyat.html
+Karten-Status: aktualisiert in index.html (Untertitel auf شپږ مهم اصول geaendert)
+Naechstes Thema: Roman (da-kali-khat, Kapitel 6)
+RUN END 2026-10-11T18:35:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle aktualisiert
