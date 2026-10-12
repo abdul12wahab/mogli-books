@@ -304,3 +304,5 @@ Lesen-Seite-Status: aktualisiert mit Kapitel 6, lesen/da-sodagari-zehniyat.html
 Karten-Status: aktualisiert in index.html (Untertitel auf شپږ مهم اصول geaendert)
 Naechstes Thema: Roman (da-kali-khat, Kapitel 6)
 RUN END 2026-10-11T18:35:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle aktualisiert
+Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
+RUN START 2026-10-12T06:28:00Z Thema=Roman
