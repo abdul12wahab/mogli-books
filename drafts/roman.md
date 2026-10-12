@@ -75,3 +75,79 @@ Elke dachte kurz nach. Beobachten, sagte sie schließlich. Aufschreiben. Sie lä
 Jonas überlegte, ob das eine Warnung war oder eine Beschreibung. Er entschied, dass es keine Rolle spielte. Er war hier für das Sediment, nicht für die Menschen.
 
 Am Abend saß er mit seinem Laptop am Schreibtisch und sortierte die Probendaten. Draußen zog der Wind an, der Fensterrahmen knarrte, und irgendwo im Haus tickte eine Uhr, die er am Morgen noch nicht gehört hatte. Er merkte, dass er sich nicht unwohl fühlte. Das war keine Überraschung, und doch hätte er es nicht vorhergesagt.
+
+## Kapitel 3: Was das Watt behält
+
+Vier Tage nach seiner Ankunft verlor Jonas Kuhlmann eine seiner Probendosen im nördlichen Priel.
+
+Es war sein eigener Fehler, und er wusste es sofort. Er hatte die Röhrchenbox auf dem Steg abgelegt, während er den GPS-Logger neu kalibrierte, und eine Windböe hatte gereicht, um sie ein Stück zu verschieben. Die Dose mit der dritten Probe fiel in den Priel, noch bevor er die Hand ausstrecken konnte. Sie sank nicht, das Plastik war leicht genug, aber die Strömung zog sie fort, und Jonas stand da und sah ihr nach, bis sie um eine Kurve der Rinne verschwunden war.
+
+Er schrieb es ins Heft. Probe Nr. 3, verloren, Koordinaten ungefähr, Uhrzeitangabe. Dann setzte er sich auf den Deichrand und dachte darüber nach, ob er es seinem Betreuer melden müsste. Wahrscheinlich nicht. Proben konnten neu entnommen werden. Das war der Vorteil von Sediment: Es blieb, wo es war.
+
+Trotzdem ärgerte er sich. Nicht über die Probe, sondern darüber, dass er unaufmerksam gewesen war. Er war selten unaufmerksam.
+
+Er war noch nicht aufgestanden, als er Schritte auf dem Deichpfad hörte. Alma Seifert kam von der Westseite, den Fernglas wie immer um den Hals. Sie blieb stehen, als sie ihn sah, eine halbe Sekunde, kaum merklich, und setzte dann den Weg fort.
+
+Jonas sagte: Ich habe eine Probe verloren.
+
+Es war keine Bitte um Hilfe. Es war einfach das, was gerade wahr war, und er sagte es, ohne nachzudenken.
+
+Alma blieb stehen. Sie drehte sich nicht sofort um, schaute erst noch kurz auf das Watt, dann zu ihm.
+
+Wo?
+
+Im Priel. Die Strömung hat sie mitgenommen, Richtung Nordost.
+
+Sie kommt raus, sagte Alma. Wenn die Flut dreht, wirft das Watt hier alles nach Norden aus. Morgen früh liegt sie irgendwo zwischen Schleuse und dem alten Fischerstand.
+
+Jonas nickte. Das war präzise. Er trug es ins Heft ein.
+
+Alma beobachtete das. Er sah es im Augenwinkel, ohne aufzuschauen. Sie schaute weg, als er den Stift wieder wegsteckte.
+
+Sie ist nicht mehr steril, sagte Jonas.
+
+Das weiß ich.
+
+Ich brauche sie dann also nicht mehr. Ich hatte trotzdem das Gefühl, ich muss das irgendwie festhalten.
+
+Alma sagte nichts darauf. Sie schaute auf die Rinne, in der die Probe verschwunden war. Dann sagte sie: Sediment aus dem nördlichen Priel ist seit Jahren nicht mehr sauber. Düngemitteleintrag vom Festland, die Landwirtschaft über die Ems. Die natürlichen Schichten fangen frühestens bei achtzig Zentimetern Tiefe an.
+
+Jonas sah auf. Das war mehr, als Elke Brodersen ihm über Alma Seifert verraten hatte.
+
+Woher wissen Sie das?
+
+Ich hab hier sieben Jahre lang Wasserproben genommen, sagte sie. Nicht systematisch. Aber ich habe aufgeschrieben, was ich gesehen habe.
+
+Jonas wollte fragen, warum sie das getan hatte, für wen, ob es irgendwo veröffentlicht worden war. Er ließ es. Alma Seifert sah nicht aus wie jemand, der solche Fragen mochte, bevor man berechtigt war, sie zu stellen.
+
+Darf ich die Daten sehen?, fragte er stattdessen.
+
+Wenn Sie mir sagen, was Sie damit machen wollen.
+
+Sie gingen nicht zusammen zurück ins Dorf. Alma bog kurz nach dem Gespräch ab, einen Trampelpfad entlang, der Jonas auf keiner Karte aufgefallen war. Er stand noch einen Moment am Deichrand, dann packte er sein Gerät ein.
+
+Heinrich Moeller war am Nachmittag am Anleger und flickte wieder sein Netz. Das schien er jeden Tag zu tun. Jonas hatte sich gefragt, ob das Netz nie fertig wurde oder ob er immer ein neues anfing.
+
+Ich habe heute mit Alma Seifert gesprochen, sagte Jonas.
+
+Der Fischer hob kurz den Kopf. War es lang?
+
+Zwei Minuten. Vielleicht drei.
+
+Dann war es lang, sagte Moeller.
+
+Jonas verstand das nicht sofort. Er dachte darüber nach, während er zum Abendessen ging, und noch danach. Elke servierte Scholle mit Kartoffeln und schwieg die meiste Zeit, was er inzwischen zu schätzen gelernt hatte.
+
+Am nächsten Morgen fand er die Probendose. Sie lag genau dort, wo Alma es gesagt hatte, zwischen der Schleuse und dem alten, halbverfallenen Fischerstand an der Nordseite. Das Plastik war vom Schlick bräunlich gefärbt, aber die Dose war noch geschlossen. Er steckte sie in seine Tasche, obwohl er wusste, dass die Probe nichts mehr taugte.
+
+Er dachte nicht viel darüber nach, warum er sie behielt. Manchmal behält man Dinge.
+
+In den nächsten Tagen sah er Alma zweimal, einmal am Briefkasten vor ihrem Haus, einmal auf dem Strandweg. Sie grüßte beide Male mit einem kurzen Nicken, das weder abweisend noch einladend war. Jonas erwiderte den Gruß und ging weiter.
+
+Am Abend des sechsten Tages lag auf dem Frühstückstisch ein gefaltetes Blatt Papier, das Elke ihm schweigend hingeschoben hatte, bevor sie in die Küche verschwand. Darauf stand, in einer schmalen, klaren Handschrift, eine Adresse, ein Datum zwei Tage später und eine Uhrzeit. Keine Unterschrift. Kein Betreff.
+
+Jonas legte das Blatt neben seinen Kaffee und las es ein zweites Mal.
+
+Es war keine Einladung, wie man sie kannte. Es war eher eine Mitteilung. Komm zu diesem Zeitpunkt, wenn du willst. Oder nicht.
+
+Er entschied noch nichts. Er trank seinen Kaffee, aß sein Brot und schaute dabei durchs Fenster auf das Watt, das sich in der Morgendämmerung wieder allmählich freilegte, still und beschäftigt wie immer, als wäre die Gegenwart von Menschen auf seinen Deichen und Stegen das Unwichtigste, was der Tag hervorbrachte.
