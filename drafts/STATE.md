@@ -11,10 +11,11 @@
 | 2026-10-10   | Persoenlichkeitsentwicklung | 3       | Business                    |
 | 2026-10-11   | Business                    | 3       | Roman                       |
 | 2026-10-12   | Roman                       | 3       | Persoenlichkeitsentwicklung |
+| 2026-10-13   | Persoenlichkeitsentwicklung | 4       | Business                    |
 
 ## Kapitelstand je Thema
 
-- Persoenlichkeitsentwicklung: Kapitel 3
+- Persoenlichkeitsentwicklung: Kapitel 4
 - Business: Kapitel 3
 - Roman: Kapitel 3
 
