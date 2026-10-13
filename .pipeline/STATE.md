@@ -357,3 +357,18 @@ Naechstes Thema: Roman (da-kali-khat, Kapitel 7)
 RUN END 2026-10-13T06:25:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite fertig, Karte bereits vorhanden
 Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
 RUN START 2026-10-13T18:00:00Z Thema=Roman
+
+## Lauf 2026-10-13 (Roman Kapitel 7) Zusammenfassung
+Datum: 2026-10-13T18:30:00Z
+Thema: Roman
+Slug: da-kali-khat
+Titel: د کلي خط
+Untertitel: د یوه ورک نیکه کیسه
+Kapitel: 7 (اووم باب: د ورکي لیک)
+Kapitel-Status: abgeschlossen, ca. 900 Woerter Pashto (Nowruz bringt Haji Guls Brief zum Vater, emotionale Szene)
+Cover-Status: bereits vorhanden (img/da-kali-khat-cover.jpg, 38KB)
+PDF-Status: aktualisiert (44KB, 19 Seiten, alle 7 Kapitel), books/da-kali-khat.pdf
+Lesen-Seite-Status: aktualisiert mit Kapitel 7, lesen/da-kali-khat.html
+Karten-Status: bereits korrekt eingefuegt in index.html (alle 3 Teile vorhanden)
+Naechstes Thema: Persoenlichkeitsentwicklung (da-dzan-jawrawalo-lar, Kapitel 9)
+RUN END 2026-10-13T18:30:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite fertig, Karte bereits vorhanden
