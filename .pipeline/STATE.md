@@ -374,3 +374,18 @@ Naechstes Thema: Persoenlichkeitsentwicklung (da-dzan-jawrawalo-lar, Kapitel 9)
 RUN END 2026-10-13T18:30:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite fertig, Karte bereits vorhanden
 Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
 RUN START 2026-10-14T06:00:00Z Thema=Persoenlichkeitsentwicklung
+
+## Lauf 2026-10-14 (Persoenlichkeitsentwicklung Kapitel 9) Zusammenfassung
+Datum: 2026-10-14T06:30:00Z
+Thema: Persoenlichkeitsentwicklung
+Slug: da-dzan-jawrawalo-lar
+Titel: د ځان جوړولو لار
+Untertitel: د پاکو عادتونو قوت
+Kapitel: 9 (نهم باب: د لوستلو ژوند)
+Kapitel-Status: abgeschlossen, ca. 950 Woerter Pashto (Lesen, lebenslanges Lernen, islamische Sicht auf Wissen)
+Cover-Status: bereits vorhanden (img/da-dzan-jawrawalo-lar-cover.jpg, 50KB)
+PDF-Status: aktualisiert (67KB, 28 Seiten, alle 9 Kapitel), books/da-dzan-jawrawalo-lar.pdf
+Lesen-Seite-Status: aktualisiert mit Kapitel 9, lesen/da-dzan-jawrawalo-lar.html
+Karten-Status: bereits korrekt eingefuegt in index.html (alle 3 Teile vorhanden)
+Naechstes Thema: Business (da-sodagari-zehniyat, Kapitel 8)
+RUN END 2026-10-14T06:30:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite fertig, Karte bereits vorhanden
