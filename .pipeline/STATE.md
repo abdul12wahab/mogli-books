@@ -408,3 +408,18 @@ Naechstes Thema: Roman (da-kali-khat, Kapitel 8)
 RUN END 2026-10-14T18:30:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite fertig, Karte bereits vorhanden
 Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
 RUN START 2026-10-15T06:00:00Z Thema=Roman
+
+## Lauf 2026-10-15 (Roman Kapitel 8) Zusammenfassung
+Datum: 2026-10-15T06:25:00Z
+Thema: Roman
+Slug: da-kali-khat
+Titel: د کلي خط
+Untertitel: د یوه ورک نیکه کیسه
+Kapitel: 8 (اتم باب: د پلار لیک)
+Kapitel-Status: abgeschlossen, ca. 880 Woerter Pashto (Vater schreibt Brief an Grossvater, plant Besuch mit Familie)
+Cover-Status: bereits vorhanden (img/da-kali-khat-cover.jpg, 38KB)
+PDF-Status: aktualisiert (56KB, 28 Seiten, alle 8 Kapitel), books/da-kali-khat.pdf
+Lesen-Seite-Status: aktualisiert mit Kapitel 8, lesen/da-kali-khat.html
+Karten-Status: bereits korrekt eingefuegt in index.html (alle 3 Teile vorhanden)
+Naechstes Thema: Persoenlichkeitsentwicklung (da-dzan-jawrawalo-lar, Kapitel 10)
+RUN END 2026-10-15T06:25:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite fertig, Karte bereits vorhanden
