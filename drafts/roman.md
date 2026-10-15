@@ -151,3 +151,87 @@ Jonas legte das Blatt neben seinen Kaffee und las es ein zweites Mal.
 Es war keine Einladung, wie man sie kannte. Es war eher eine Mitteilung. Komm zu diesem Zeitpunkt, wenn du willst. Oder nicht.
 
 Er entschied noch nichts. Er trank seinen Kaffee, aß sein Brot und schaute dabei durchs Fenster auf das Watt, das sich in der Morgendämmerung wieder allmählich freilegte, still und beschäftigt wie immer, als wäre die Gegenwart von Menschen auf seinen Deichen und Stegen das Unwichtigste, was der Tag hervorbrachte.
+
+## Kapitel 4: Die Daten
+
+Er ging. Er hatte keine besonders guten Gründe dafür, und die wissenschaftlichen Gründe, die er sich nannte, überzeugten ihn selbst nicht vollständig. Sieben Jahre Wasserproben aus dem nördlichen Priel waren in der Tat relevant für seine Arbeit. Das stimmte. Aber er wäre auch ohne diese Relevanz gegangen, und das war das, was er sich nicht genauer betrachtete.
+
+Das Haus war von innen größer als von außen. Das passierte bei alten Gebäuden manchmal, wenn Wände herausgenommen und Räume zusammengelegt worden waren. Der Eingangsbereich führte direkt in einen Raum, der die gesamte Breite des Hauses einnahm, mit Fenstern nach Norden und Westen. Auf der Nordseite lagen das Watt und der Streifen der Außenküste, auf der Westseite der Deich und dahinter das offene Meer. Alma Seifert hatte sich das Haus so eingerichtet, dass sie von jedem Punkt im Zimmer das Wasser sehen konnte.
+
+Es gab wenig Möbel. Einen Tisch, lang und schmal wie ein Werktisch, darauf mehrere übereinanderliegende Karteikartenboxen, einen alten Laptop, zwei Schnellhefter und ein gerahmtes Foto, das er von der Tür aus nicht sehen konnte. Bücherregale an zwei Wänden, voll, ohne erkennbares System. Einen Sessel am Fenster, der sichtlich benutzt wurde, und einen zweiten Stuhl, der aussah, als würde er hauptsächlich als Ablagefläche dienen.
+
+Alma stand bereits am Tisch, als er eintrat. Sie hatte ihm keine Zeit gelassen, sich umzusehen.
+
+Die Daten liegen dort, sagte sie und zeigte auf die Schnellhefter. Das Erste ist chronologisch, das Zweite nach Messstellen geordnet. Ich habe beides, weil ich nicht sicher war, was Sie brauchen.
+
+Jonas nahm den ersten Hefter und schlug ihn auf. Die Handschrift war dieselbe wie auf dem Zettel, klein und gleichmäßig. Jeder Eintrag hatte ein Datum, eine Uhrzeit, eine Koordinate und eine Reihe von Messwerten: Wassertemperatur, Trübungswert, pH, in einigen Einträgen auch Notizen zu Färbung und Geruch. Die frühesten Einträge stammten aus dem Frühjahr 2019.
+
+Das ist außerordentlich konsequent, sagte Jonas.
+
+Alma antwortete nicht. Sie stand am Nordenfenster und schaute aufs Watt. Er ließ sie stehen und blätterte weiter.
+
+Die Zeitreihe war fast lückenlos. Wenige Lücken, die es gab, hatte sie markiert und kurz erklärt: Krankheit, Sturm, einmal eine Woche mit dem Vermerk nur Festland, der keinerlei weitere Auskunft gab. Die Messwerte waren sorgfältig, die Notizen knapp. Wo andere vielleicht geschrieben hätten, auffällige Trübung, schrieb sie eine Zahl. Wo andere hätten schreiben können, deutliche Verfärbung durch Algenblüte, schrieb sie Chlorophyll-a erhöht, Schätzung, keine Instrumente. Es war die Handschrift von jemandem, der gelernt hatte, das, was man nicht messen konnte, trotzdem festzuhalten, ohne es zu mehr zu machen, als es war.
+
+Haben Sie Instrumente?, fragte er.
+
+Wenige. Ich habe früher welche gehabt. Einige sind kaputt gegangen, ich hatte keinen Grund, sie zu ersetzen.
+
+Warum nicht?
+
+Alma drehte sich um. Sie schaute ihn an, nicht unfreundlich, aber prüfend, auf eine Art, die Jonas das Gefühl gab, eine Frage gestellt zu haben, die entweder sehr naiv oder sehr direkt war, und er wusste noch nicht, welches von beiden sie für wahrscheinlicher hielt.
+
+Ich veröffentliche das nicht, sagte sie.
+
+Ich weiß.
+
+Dann wissen Sie auch, warum ich keine teuren Instrumente mehr kaufe.
+
+Jonas dachte nach. Das stimmte, er wusste es eigentlich. Eine Forscherin, die nichts mehr einreichte, die keine Förderanträge schrieb, die nichts brauchte, was sie rechtfertigen müsste. Das Aufschreiben war nicht für andere, also war der Standard der nur, der ihr selbst genügte, und dieser Standard lag nach allem, was er in den Heftern sah, trotzdem erstaunlich hoch.
+
+Was würden Sie sagen, fragte Jonas, wozu diese Daten gut sind?
+
+Alma zog einen zweiten Stuhl heran. Nicht den, der als Ablage diente; den hatte sie irgendwann mit den darauf liegenden Dingen auf den Boden gestellt, ohne darüber nachzudenken. Sie setzte sich, die Arme auf dem Tisch, und schaute auf die Hefter.
+
+Zur Dokumentation einer Entwicklung, die niemanden interessiert. Zumindest nicht die Leute, die etwas daran ändern könnten.
+
+Das ist eine politische Aussage.
+
+Das ist eine Beobachtung.
+
+Jonas wollte lächeln, ließ es. Stattdessen blätterte er zurück zu einer Stelle in den Einträgen von 2021, wo die Nitrat-Notizen deutlich häufiger wurden.
+
+Hier, 2021, der Sommer. Die Eintragshäufigkeit nimmt zu. War das ein besonders aktives Feldjahr für Sie, oder hat sich etwas an den Werten verändert?
+
+Beides. Das Wasser wurde schlimmer, also habe ich öfter gemessen. Ich wollte sehen, ob es sich erholt.
+
+Hat es sich erholt?
+
+Zum Teil.
+
+Zum Teil ist ehrlich.
+
+Alma sah ihn an. Es war das zweite Mal an diesem Nachmittag, dass sie ihn direkt ansah, und Jonas bemerkte, dass es jedes Mal eine kurze, abwägende Pause gab, bevor sie antwortete, als müsste sie zuerst entscheiden, ob eine Antwort das Gespräch in eine Richtung führte, die sie wollte.
+
+Ich kann Ihnen die Daten geben, sagte sie schließlich. Zum Einlesen, nicht zum Behalten. Wenn Sie mir sagen, was Sie daraus machen, und mir zeigen, was Sie gefunden haben, bevor Sie gehen.
+
+Ich gehe im Januar.
+
+Ich weiß.
+
+Es ist ein Deal, sagte Jonas, weil es sich so anfühlte, auch wenn das Wort zu groß war für das, was sie vereinbart hatten.
+
+Alma stand auf und stellte den zweiten Hefter zurück ins Regal. Auf dem Foto, das er inzwischen besser sehen konnte, war ein Strand zu erkennen, kein Ravenwatter Strand, die Felsformation war anders, und eine Frau, die deutlich jünger aussah als Alma, mit einem Probenbehälter in der Hand und einem Gesichtsausdruck, den man nur bekommt, wenn man gerade etwas gefunden hat.
+
+Er fragte nicht.
+
+Draußen war es noch hell, aber das Licht hatte die Qualität bekommen, die oktoberhelles Licht auf Ravenwatt kurz vor vier bekam: flach und goldgelb und von sehr kurzer Dauer. Jonas packte seine Unterlagen ein und bedankte sich. Alma nickte und öffnete die Tür.
+
+Auf dem Weg zurück zur Pension begegnete er Heinrich Moeller, der, ohne Netz diesmal, am Deich entlangging. Der alte Mann schaute ihn an, kurz, wie immer ohne viel Aufwand.
+
+Sie war lange, sagte Jonas.
+
+Moeller schaute ihn an.
+
+Zwei Stunden, sagte Jonas.
+
+Der Fischer ging weiter, ohne etwas zu sagen. Aber Jonas hatte das Gefühl, dass er, hätte Moeller sich umgedreht, einen Ausdruck im Gesicht gezeigt hätte, den man auf Ravenwatt vielleicht als überrascht gelten ließ.

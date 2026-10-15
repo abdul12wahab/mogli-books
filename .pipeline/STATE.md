@@ -338,3 +338,88 @@ Lesen-Seite-Status: aktualisiert mit Kapitel 8, lesen/da-dzan-jawrawalo-lar.html
 Karten-Status: bereits korrekt eingefuegt in index.html (alle 3 Teile vorhanden)
 Naechstes Thema: Business (da-sodagari-zehniyat, Kapitel 7)
 RUN END 2026-10-12T18:25:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite fertig, Karte bereits vorhanden
+Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
+RUN START 2026-10-13T06:20:27Z Thema=Business
+
+## Lauf 2026-10-13 (Business Kapitel 7) Zusammenfassung
+Datum: 2026-10-13T06:25:00Z
+Thema: Business
+Slug: da-sodagari-zehniyat
+Titel: د سوداګرۍ ذهنیت
+Untertitel: د بریالیتوب لپاره شپږ مهم اصول
+Kapitel: 7 (اووم باب: د برانډ ځواک)
+Kapitel-Status: abgeschlossen, ca. 850 Woerter Pashto (Branding, Markenidentitaet, visuelles Branding)
+Cover-Status: bereits vorhanden (img/da-sodagari-zehniyat-cover.jpg, 42KB)
+PDF-Status: aktualisiert (46KB, 21 Seiten, alle 7 Kapitel), books/da-sodagari-zehniyat.pdf
+Lesen-Seite-Status: aktualisiert mit Kapitel 7, lesen/da-sodagari-zehniyat.html
+Karten-Status: bereits korrekt eingefuegt in index.html (alle 3 Teile vorhanden)
+Naechstes Thema: Roman (da-kali-khat, Kapitel 7)
+RUN END 2026-10-13T06:25:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite fertig, Karte bereits vorhanden
+Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
+RUN START 2026-10-13T18:00:00Z Thema=Roman
+
+## Lauf 2026-10-13 (Roman Kapitel 7) Zusammenfassung
+Datum: 2026-10-13T18:30:00Z
+Thema: Roman
+Slug: da-kali-khat
+Titel: د کلي خط
+Untertitel: د یوه ورک نیکه کیسه
+Kapitel: 7 (اووم باب: د ورکي لیک)
+Kapitel-Status: abgeschlossen, ca. 900 Woerter Pashto (Nowruz bringt Haji Guls Brief zum Vater, emotionale Szene)
+Cover-Status: bereits vorhanden (img/da-kali-khat-cover.jpg, 38KB)
+PDF-Status: aktualisiert (44KB, 19 Seiten, alle 7 Kapitel), books/da-kali-khat.pdf
+Lesen-Seite-Status: aktualisiert mit Kapitel 7, lesen/da-kali-khat.html
+Karten-Status: bereits korrekt eingefuegt in index.html (alle 3 Teile vorhanden)
+Naechstes Thema: Persoenlichkeitsentwicklung (da-dzan-jawrawalo-lar, Kapitel 9)
+RUN END 2026-10-13T18:30:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite fertig, Karte bereits vorhanden
+Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
+RUN START 2026-10-14T06:00:00Z Thema=Persoenlichkeitsentwicklung
+
+## Lauf 2026-10-14 (Persoenlichkeitsentwicklung Kapitel 9) Zusammenfassung
+Datum: 2026-10-14T06:30:00Z
+Thema: Persoenlichkeitsentwicklung
+Slug: da-dzan-jawrawalo-lar
+Titel: د ځان جوړولو لار
+Untertitel: د پاکو عادتونو قوت
+Kapitel: 9 (نهم باب: د لوستلو ژوند)
+Kapitel-Status: abgeschlossen, ca. 950 Woerter Pashto (Lesen, lebenslanges Lernen, islamische Sicht auf Wissen)
+Cover-Status: bereits vorhanden (img/da-dzan-jawrawalo-lar-cover.jpg, 50KB)
+PDF-Status: aktualisiert (67KB, 28 Seiten, alle 9 Kapitel), books/da-dzan-jawrawalo-lar.pdf
+Lesen-Seite-Status: aktualisiert mit Kapitel 9, lesen/da-dzan-jawrawalo-lar.html
+Karten-Status: bereits korrekt eingefuegt in index.html (alle 3 Teile vorhanden)
+Naechstes Thema: Business (da-sodagari-zehniyat, Kapitel 8)
+RUN END 2026-10-14T06:30:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite fertig, Karte bereits vorhanden
+Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
+RUN START 2026-10-14T18:20:00Z Thema=Business
+
+## Lauf 2026-10-14 (Business Kapitel 8) Zusammenfassung
+Datum: 2026-10-14T18:25:00Z
+Thema: Business
+Slug: da-sodagari-zehniyat
+Titel: د سوداګرۍ ذهنیت
+Untertitel: د بریالیتوب لپاره شپږ مهم اصول
+Kapitel: 8 (اتم باب: د مشتري وفاداري، د سوداګرۍ اصلي سرمایه)
+Kapitel-Status: abgeschlossen, ca. 850 Woerter Pashto (Kundentreue, Wiederkehrende Kunden, Nachverkauf-Service)
+Cover-Status: bereits vorhanden (img/da-sodagari-zehniyat-cover.jpg, 42KB)
+PDF-Status: aktualisiert (107KB, 22 Seiten, alle 8 Kapitel), books/da-sodagari-zehniyat.pdf
+Lesen-Seite-Status: aktualisiert mit Kapitel 8, lesen/da-sodagari-zehniyat.html
+Karten-Status: bereits korrekt eingefuegt in index.html (alle 3 Teile vorhanden)
+Naechstes Thema: Roman (da-kali-khat, Kapitel 8)
+RUN END 2026-10-14T18:30:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite fertig, Karte bereits vorhanden
+Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
+RUN START 2026-10-15T06:00:00Z Thema=Roman
+
+## Lauf 2026-10-15 (Roman Kapitel 8) Zusammenfassung
+Datum: 2026-10-15T06:25:00Z
+Thema: Roman
+Slug: da-kali-khat
+Titel: د کلي خط
+Untertitel: د یوه ورک نیکه کیسه
+Kapitel: 8 (اتم باب: د پلار لیک)
+Kapitel-Status: abgeschlossen, ca. 880 Woerter Pashto (Vater schreibt Brief an Grossvater, plant Besuch mit Familie)
+Cover-Status: bereits vorhanden (img/da-kali-khat-cover.jpg, 38KB)
+PDF-Status: aktualisiert (56KB, 28 Seiten, alle 8 Kapitel), books/da-kali-khat.pdf
+Lesen-Seite-Status: aktualisiert mit Kapitel 8, lesen/da-kali-khat.html
+Karten-Status: bereits korrekt eingefuegt in index.html (alle 3 Teile vorhanden)
+Naechstes Thema: Persoenlichkeitsentwicklung (da-dzan-jawrawalo-lar, Kapitel 10)
+RUN END 2026-10-15T06:25:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite fertig, Karte bereits vorhanden
