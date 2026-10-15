@@ -425,3 +425,18 @@ Naechstes Thema: Persoenlichkeitsentwicklung (da-dzan-jawrawalo-lar, Kapitel 10)
 RUN END 2026-10-15T06:25:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite fertig, Karte bereits vorhanden
 Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
 RUN START 2026-10-15T18:00:00Z Thema=Persoenlichkeitsentwicklung
+
+## Lauf 2026-10-15 (Persoenlichkeitsentwicklung Kapitel 10) Zusammenfassung
+Datum: 2026-10-15T18:30:00Z
+Thema: Persoenlichkeitsentwicklung
+Slug: da-dzan-jawrawalo-lar
+Titel: د ځان جوړولو لار
+Untertitel: د پاکو عادتونو قوت
+Kapitel: 10 (لسم باب: د ژوند مسئولیت)
+Kapitel-Status: abgeschlossen, ca. 850 Woerter Pashto (Selbstverantwortung, Accountability, muhassaba-e-nafs)
+Cover-Status: bereits vorhanden (img/da-dzan-jawrawalo-lar-cover.jpg, 50KB)
+PDF-Status: aktualisiert (80KB, 52 Seiten, alle 10 Kapitel), books/da-dzan-jawrawalo-lar.pdf
+Lesen-Seite-Status: aktualisiert mit Kapitel 10, lesen/da-dzan-jawrawalo-lar.html
+Karten-Status: bereits korrekt eingefuegt in index.html (alle 3 Teile vorhanden)
+Naechstes Thema: Business (da-sodagari-zehniyat, Kapitel 9)
+RUN END 2026-10-15T18:30:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite fertig, Karte bereits vorhanden
