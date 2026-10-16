@@ -442,3 +442,18 @@ Naechstes Thema: Business (da-sodagari-zehniyat, Kapitel 9)
 RUN END 2026-10-15T18:30:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite fertig, Karte bereits vorhanden
 Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
 RUN START 2026-10-16T06:18:00Z Thema=Business
+
+## Lauf 2026-10-16 (Business Kapitel 9) Zusammenfassung
+Datum: 2026-10-16T06:25:00Z
+Thema: Business
+Slug: da-sodagari-zehniyat
+Titel: د سوداګرۍ ذهنیت
+Untertitel: د بریالیتوب لپاره نهم مهم اصول
+Kapitel: 9 (نهم باب: د خبرو اترو هنر)
+Kapitel-Status: abgeschlossen, ca. 850 Woerter Pashto (Verhandlungskunst, Preissetzung, Win-Win-Negotiation)
+Cover-Status: bereits vorhanden (img/da-sodagari-zehniyat-cover.jpg, 42KB)
+PDF-Status: aktualisiert (65KB, 22 Seiten, alle 9 Kapitel), books/da-sodagari-zehniyat.pdf
+Lesen-Seite-Status: aktualisiert mit Kapitel 9, lesen/da-sodagari-zehniyat.html
+Karten-Status: aktualisiert in index.html (Untertitel auf نهم مهم اصول geaendert)
+Naechstes Thema: Roman (da-kali-khat, Kapitel 9)
+RUN END 2026-10-16T06:26:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle aktualisiert
