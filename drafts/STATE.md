@@ -15,11 +15,12 @@
 | 2026-10-14   | Business                    | 4       | Roman                       |
 | 2026-10-15   | Roman                       | 4       | Persoenlichkeitsentwicklung |
 | 2026-10-16   | Persoenlichkeitsentwicklung | 5       | Business                    |
+| 2026-10-19   | Business                    | 5       | Roman                       |
 
 ## Kapitelstand je Thema
 
 - Persoenlichkeitsentwicklung: Kapitel 5
-- Business: Kapitel 4
+- Business: Kapitel 5
 - Roman: Kapitel 4
 
 ## Roman-Metadaten
