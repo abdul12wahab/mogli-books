@@ -476,3 +476,18 @@ Naechstes Thema: Persoenlichkeitsentwicklung (da-dzan-jawrawalo-lar, Kapitel 11)
 RUN END 2026-10-19T06:23:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite fertig, Karte bereits vorhanden
 Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
 RUN START 2026-10-19T18:00:00Z Thema=Persoenlichkeitsentwicklung
+
+## Lauf 2026-10-19 (Persoenlichkeitsentwicklung Kapitel 11) Zusammenfassung
+Datum: 2026-10-19T18:13:00Z
+Thema: Persoenlichkeitsentwicklung
+Slug: da-dzan-jawrawalo-lar
+Titel: د ځان جوړولو لار
+Untertitel: د پاکو عادتونو قوت
+Kapitel: 11 (یوولسم باب: د احساساتو هوشیاري)
+Kapitel-Status: abgeschlossen, ca. 850 Woerter Pashto (Emotionale Intelligenz, Selbstwahrnehmung, Empathie, Pashtunische Weisheit)
+Cover-Status: bereits vorhanden (img/da-dzan-jawrawalo-lar-cover.jpg, 50KB JPEG)
+PDF-Status: aktualisiert (327KB, 8 Seiten via Chromium, alle 11 Kapitel), books/da-dzan-jawrawalo-lar.pdf
+Lesen-Seite-Status: aktualisiert mit Kapitel 11, lesen/da-dzan-jawrawalo-lar.html
+Karten-Status: bereits korrekt eingefuegt in index.html (alle 3 Teile vorhanden)
+Naechstes Thema: Business (da-sodagari-zehniyat, Kapitel 10)
+RUN END 2026-10-19T18:13:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite fertig, Karte bereits vorhanden
