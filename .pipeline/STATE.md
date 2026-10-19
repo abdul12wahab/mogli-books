@@ -459,3 +459,18 @@ Naechstes Thema: Roman (da-kali-khat, Kapitel 9)
 RUN END 2026-10-16T06:26:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle aktualisiert
 Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
 RUN START 2026-10-19T06:12:22Z Thema=Roman
+
+## Lauf 2026-10-19 (Roman Kapitel 9) Zusammenfassung
+Datum: 2026-10-19T06:23:00Z
+Thema: Roman
+Slug: da-kali-khat
+Titel: د کلي خط
+Untertitel: د یوه ورک نیکه کیسه
+Kapitel: 9 (نهم باب: د کلي لاه)
+Kapitel-Status: abgeschlossen, ca. 800 Woerter Pashto (Familienreise nach Babakai, Wiedersehen Haji Gul und Kamal Khan nach 30 Jahren)
+Cover-Status: bereits vorhanden (img/da-kali-khat-cover.jpg, 38KB PNG)
+PDF-Status: aktualisiert (397KB, 8 Seiten, alle 9 Kapitel via Chromium), books/da-kali-khat.pdf
+Lesen-Seite-Status: aktualisiert mit Kapitel 9, lesen/da-kali-khat.html
+Karten-Status: bereits korrekt eingefuegt in index.html (alle 3 Teile vorhanden)
+Naechstes Thema: Persoenlichkeitsentwicklung (da-dzan-jawrawalo-lar, Kapitel 11)
+RUN END 2026-10-19T06:23:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite fertig, Karte bereits vorhanden
