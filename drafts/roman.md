@@ -235,3 +235,85 @@ Moeller schaute ihn an.
 Zwei Stunden, sagte Jonas.
 
 Der Fischer ging weiter, ohne etwas zu sagen. Aber Jonas hatte das Gefühl, dass er, hätte Moeller sich umgedreht, einen Ausdruck im Gesicht gezeigt hätte, den man auf Ravenwatt vielleicht als überrascht gelten ließ.
+
+## Kapitel 5: Zwischenschicht
+
+In den zwei Wochen nach seinem Besuch arbeitete Jonas die Daten aus den Heftern in seine Auswertung ein. Er hatte sie abgetippt, Seite für Seite, weil Alma keine digitale Kopie hatte und er nicht darum bitten wollte, die Hefter mitzunehmen. Das Abtippen nahm vier Abende in Anspruch und war, anders als er erwartet hatte, keine lästige Arbeit. Man las die Einträge beim Übertragen auf eine andere Art. Langsamer. Die Lücken wurden sichtbarer, und die Stellen, an denen die Handschrift leicht anders war, fester oder hastiger, waren auch lesbar, auch wenn sie nichts Benennbares sagten.
+
+Die Ergebnisse bestätigten, was er vermutet hatte, und zeigten etwas, das er nicht vermutet hatte. Die Nitratwerte aus dem Sommer 2021 lagen deutlich über dem Hintergrundniveau der früheren Jahre, das ließ sich mit dem Eintrag aus der Ems-Zuflussregion erklären. Die überraschende Erkenntnis war eine andere: Die Sedimentschicht, die er bei achtzig Zentimetern erwartet hatte, tauchte in seinen eigenen Messungen erst bei neunzig auf, und zwar mit einem Übergangsprofil, das auf eine kurzzeitige Umlagerung hindeutete. Almas Wasserproben aus dem Winter 2022 zeigten erhöhte Trübungswerte, die kurz und unvermittelt wieder verschwanden. Sturmflut, dachte Jonas. Eine ungewöhnlich hohe, die das Sediment kurzfristig mobilisiert hatte. Er suchte in den Wetteraufzeichnungen und fand den Eintrag: Dezember 2022, ungewöhnliche Windkonstellation, Wasserstand im nördlichen Priel einen halben Meter über dem Normalstand.
+
+Er hatte das nicht gewusst. Ohne Almas Daten hätte er es nicht gewusst, hätte seine Tiefenangaben falsch kalibriert und wahrscheinlich erst bei der Auswertung in Kiel bemerkt, dass etwas nicht stimmte.
+
+Er ließ es Elke wissen. Elke ließ es Alma wissen.
+
+Alma antwortete zwei Tage später: kurze Handschrift auf dem Frühstückstisch, dienstags, fünfzehn Uhr.
+
+Es war kälter geworden. Anfang November hatte das Licht auf Ravenwatt etwas Endgültiges bekommen, als hätte die Insel beschlossen, keine Umwege mehr zu machen und direkt in die dunkle Jahreszeit überzugehen. Jonas trug jetzt seine schwerere Jacke und merkte, dass er sich auf die Mittagsstunden gefreut hatte, wenn das Licht kurz eine Qualität bekam, die fast wie Herbst aussah und nicht wie das Vorstadium von etwas Schlimmerem.
+
+Alma öffnete, bevor er klopfte. Sie hatte ihn kommen sehen.
+
+Er legte seine ausgedruckten Grafiken auf den Tisch, die sie sich ohne Kommentar anschaute. Drei Seiten: die Tiefenprofile, die Zeitreihe der Nitratwerte, das Matching mit den Sturmflutdaten. Er erklärte, was er erklären musste, und schwieg, wenn es nichts zu erklären gab.
+
+Alma zeigte auf die Stelle in der Zeitreihe, an der die Trübungswerte kurz nach oben schossen.
+
+Ich erinnere mich an diesen Winter. Ich war zehn Tage krank und konnte nicht messen. Als ich wieder draußen war, hatte sich das Watt verändert. Der Priel hatte eine andere Farbe.
+
+Und Sie haben trotzdem gemessen.
+
+Sie sah ihn kurz an. Natürlich.
+
+Das war für Jonas keine überraschende Antwort, aber es war eine, über die er nachher noch nachdachte. Natürlich. Als ob es keine andere Möglichkeit gegeben hätte.
+
+Sie sprachen noch eine Weile über die Sturmflutdaten. Irgendwann stand Alma auf, um Wasser aufzusetzen, und Jonas blieb am Tisch und schaute aus dem Nordfenster. Das Watt lag still da. Die Ebbe hatte die Prielen freigelegt, und in dem flachen Licht des frühen Nachmittags schimmerte der Schlick anders als im Oktober, kühler und metallischer.
+
+Er schaute zu dem Foto auf dem Regal. Er hatte es beim letzten Besuch schon gesehen, aber nicht lang genug, um mehr zu erkennen als das Wesentliche: eine Frau, ein Strand mit Felsen, ein Probenbehälter.
+
+Woher war das?, fragte er. Dann: Entschuldigung. Sie müssen das nicht beantworten.
+
+Er wusste nicht genau, warum er gefragt hatte. Vielleicht weil das Abtippen ihrer Hefter vier Abende lang gewesen war, und weil man nach vier Abenden mit der Handschrift eines Menschen anfängt, sich Fragen zu stellen, die man normalerweise nicht stellt.
+
+Alma stellte zwei Becher auf den Tisch und setzte sich. Sie schaute nicht auf das Foto.
+
+Schottland, sagte sie. 2015. Loch Torridon, Feldarbeit für einen Aufsatz, der nie fertig geworden ist.
+
+Warum nicht fertig?
+
+Das war die offenere Frage. Jonas wusste das, während er sie stellte.
+
+Alma hielt den Becher mit beiden Händen. Ein Augenblick verging, kein unangenehmer.
+
+Weil ich im Sommer 2016 aufgehört habe, sagte sie schließlich. Erst die Stelle. Dann das Schreiben. Dann alles andere Schritt für Schritt.
+
+Und hier angefangen.
+
+Hier angefangen, ja.
+
+Sie sagte es ohne Bitterkeit, aber auch ohne die Art von Frieden, die man aufführt, wenn man möchte, dass das Gespräch aufhört. Jonas nippte an seinem Wasser.
+
+Was war in Loch Torridon, fragte er.
+
+Almas Blick glitt kurz zum Foto hin.
+
+Wir hatten gerade etwas gefunden, sagte sie. Eine ungewöhnliche Schichtung in den marinen Sedimenten, auf ein Tsunami-Ereignis deutend, das in dieser Region bisher nicht dokumentiert worden war. Das Foto ist von dem Tag, an dem wir die erste Probe ausgewertet haben.
+
+Sie trank. Jonas wartete, ob noch etwas kam.
+
+Der Aufsatz war halbfertig, als ich gegangen bin. Meine damalige Kollegin hat ihn alleine fertig geschrieben. Er ist erschienen, das Jahr danach. Ich stehe in den Danksagungen.
+
+Ist das genug?
+
+Alma sah ihn an. Diesmal blieb ihr Blick länger, als Jonas gewohnt war.
+
+Manchmal, sagte sie.
+
+Sie sprachen danach noch über seine Auswertungen, über die Methodik, über eine Stelle in den Daten, die ihm noch unklar war. Alma hatte eine Erklärung, präzise und ohne Ausschmückung. Jonas schrieb sie auf.
+
+Draußen war das Licht längst weggezogen. Die Nordfenster gaben jetzt nur noch ein graues Rechteck zurück, das Watt nicht mehr erkennbar, alles ein einheitliches Grau.
+
+Er packte seine Unterlagen ein und stand auf. An der Tür sagte Alma, ohne ihn anzuschauen: Die Daten aus 2023 und 2024 habe ich noch nicht gezeigt. Da gibt es Einträge, die für Ihre Tiefenkorrektur relevant sein könnten.
+
+Das wäre gut, sagte Jonas.
+
+Dienstag, sagte Alma. Gleiche Zeit.
+
+Er nickte und ging.
