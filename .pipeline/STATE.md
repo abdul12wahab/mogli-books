@@ -493,3 +493,18 @@ Naechstes Thema: Business (da-sodagari-zehniyat, Kapitel 10)
 RUN END 2026-10-19T18:13:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite fertig, Karte bereits vorhanden
 Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
 RUN START 2026-10-20T06:13:29Z Thema=Business
+
+## Lauf 2026-10-20 (Business Kapitel 10) Zusammenfassung
+Datum: 2026-10-20T06:20:00Z
+Thema: Business
+Slug: da-sodagari-zehniyat
+Titel: د سوداګرۍ ذهنیت
+Untertitel: د بریالیتوب لپاره لسم مهم اصول
+Kapitel: 10 (لسم باب: دیجیتل مارکیټینګ، د نوي زمانې بازار)
+Kapitel-Status: abgeschlossen, ca. 850 Woerter Pashto (Digitales Marketing, Social Media, WhatsApp Business)
+Cover-Status: bereits vorhanden (img/da-sodagari-zehniyat-cover.jpg, 42KB)
+PDF-Status: aktualisiert (250KB, 8 Seiten via Chromium, alle 10 Kapitel), books/da-sodagari-zehniyat.pdf
+Lesen-Seite-Status: aktualisiert mit Kapitel 10, lesen/da-sodagari-zehniyat.html
+Karten-Status: aktualisiert in index.html (Untertitel auf لسم مهم اصول geaendert, Beschreibung ergaenzt)
+Naechstes Thema: Roman (da-kali-khat, Kapitel 10)
+RUN END 2026-10-20T06:20:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle fertig
