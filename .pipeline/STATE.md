@@ -510,3 +510,18 @@ Naechstes Thema: Roman (da-kali-khat, Kapitel 10)
 RUN END 2026-10-20T06:20:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle fertig
 Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
 RUN START 2026-10-20T18:09:00Z Thema=Roman
+
+## Lauf 2026-10-20 (Roman Kapitel 10) Zusammenfassung
+Datum: 2026-10-20T18:15:00Z
+Thema: Roman
+Slug: da-kali-khat
+Titel: د کلي خط
+Untertitel: د یوه ورک نیکه کیسه
+Kapitel: 10 (لسم باب: د نیکه کیسه)
+Kapitel-Status: abgeschlossen, ca. 870 Woerter Pashto (Haji Gul erklaert den wahren Grund seiner Abreise vor 30 Jahren, Klaerung und Versoehnung)
+Cover-Status: bereits vorhanden (img/da-kali-khat-cover.jpg, 38KB PNG)
+PDF-Status: aktualisiert (422KB, 8 Seiten via Chromium, alle 10 Kapitel), books/da-kali-khat.pdf
+Lesen-Seite-Status: aktualisiert mit Kapitel 10, lesen/da-kali-khat.html
+Karten-Status: bereits korrekt eingefuegt in index.html (alle 3 Teile vorhanden)
+Naechstes Thema: Persoenlichkeitsentwicklung (da-dzan-jawrawalo-lar, Kapitel 12)
+RUN END 2026-10-20T18:15:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite fertig, Karte bereits vorhanden
