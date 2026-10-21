@@ -544,3 +544,18 @@ Naechstes Thema: Business (da-sodagari-zehniyat, Kapitel 11)
 RUN END 2026-10-21T06:14:03Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite fertig, Karte bereits vorhanden
 Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
 RUN START 2026-10-21T18:09:47Z Thema=Business
+
+## Lauf 2026-10-21 (Business Kapitel 11) Zusammenfassung
+Datum: 2026-10-21T18:15:00Z
+Thema: Business
+Slug: da-sodagari-zehniyat
+Titel: د سوداګرۍ ذهنیت
+Untertitel: د بریالیتوب لپاره یوولسم مهم اصول
+Kapitel: 11 (یوولسم باب: د پیسو مدیریت، د سوداګرۍ بنسټ)
+Kapitel-Status: abgeschlossen, ca. 900 Woerter Pashto (Finanzverwaltung, Cash-Flow, Rucklagen, Buchfuehrung, Trennung Geschaefts-Privat-Finanzen)
+Cover-Status: bereits vorhanden (img/da-sodagari-zehniyat-cover.jpg, 42KB PNG)
+PDF-Status: aktualisiert (273KB, 8 Seiten via Chromium, alle 11 Kapitel), books/da-sodagari-zehniyat.pdf
+Lesen-Seite-Status: aktualisiert mit Kapitel 11, lesen/da-sodagari-zehniyat.html
+Karten-Status: aktualisiert in index.html (Untertitel auf یوولسم مهم اصول geaendert, Beschreibung mit Finanzverwaltung ergaenzt)
+Naechstes Thema: Roman (da-kali-khat, Kapitel 11)
+RUN END 2026-10-21T18:15:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle fertig
