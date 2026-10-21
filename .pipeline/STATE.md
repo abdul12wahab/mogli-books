@@ -527,3 +527,18 @@ Naechstes Thema: Persoenlichkeitsentwicklung (da-dzan-jawrawalo-lar, Kapitel 12)
 RUN END 2026-10-20T18:15:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite fertig, Karte bereits vorhanden
 Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
 RUN START 2026-10-21T06:14:03Z Thema=Persoenlichkeitsentwicklung
+
+## Lauf 2026-10-21 (Persoenlichkeitsentwicklung Kapitel 12) Zusammenfassung
+Datum: 2026-10-21T06:14:03Z
+Thema: Persoenlichkeitsentwicklung
+Slug: da-dzan-jawrawalo-lar
+Titel: د ځان جوړولو لار
+Untertitel: د پاکو عادتونو قوت
+Kapitel: 12 (دوولسم باب: د هدفونو ځواک)
+Kapitel-Status: abgeschlossen, ca. 900 Woerter Pashto (Ziele setzen und erreichen, SMART-Ziele, pashtunische Weisheit)
+Cover-Status: bereits vorhanden (img/da-dzan-jawrawalo-lar-cover.jpg, 50KB JPEG)
+PDF-Status: aktualisiert (116KB, 24 Seiten via fpdf2, alle 12 Kapitel), books/da-dzan-jawrawalo-lar.pdf
+Lesen-Seite-Status: aktualisiert mit Kapitel 12, lesen/da-dzan-jawrawalo-lar.html
+Karten-Status: bereits korrekt eingefuegt in index.html (alle 3 Teile vorhanden)
+Naechstes Thema: Business (da-sodagari-zehniyat, Kapitel 11)
+RUN END 2026-10-21T06:14:03Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite fertig, Karte bereits vorhanden
