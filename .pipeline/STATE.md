@@ -561,3 +561,18 @@ Naechstes Thema: Roman (da-kali-khat, Kapitel 11)
 RUN END 2026-10-21T18:15:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle fertig
 Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
 RUN START 2026-10-22T18:09:51Z Thema=Roman
+
+## Lauf 2026-10-22 (Roman Kapitel 11) Zusammenfassung
+Datum: 2026-10-22T18:22:00Z
+Thema: Roman
+Slug: da-kali-khat
+Titel: د کلي خط
+Untertitel: د یوه ورک نیکه کیسه
+Kapitel: 11 (یوولسم باب: د بیا ملاقات ژمنه)
+Kapitel-Status: abgeschlossen, ca. 850 Woerter Pashto (Abschied von Babakai, Haji Gul gibt Nowruz unvermittelte Briefe, Familie kehrt nach Jalalabad zurueck, Nowruz zeigt Ustad Omar seine Aufzeichnungen)
+Cover-Status: bereits vorhanden (img/da-kali-khat-cover.jpg, 38KB PNG)
+PDF-Status: aktualisiert (450KB, 8 Seiten via Chromium, alle 11 Kapitel), books/da-kali-khat.pdf
+Lesen-Seite-Status: aktualisiert mit Kapitel 11, lesen/da-kali-khat.html
+Karten-Status: bereits korrekt eingefuegt in index.html (alle 3 Teile vorhanden)
+Naechstes Thema: Persoenlichkeitsentwicklung (da-dzan-jawrawalo-lar, Kapitel 13)
+RUN END 2026-10-22T18:22:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite fertig, Karte bereits vorhanden
