@@ -219,3 +219,43 @@ Es gibt eine direkte Verbindung zwischen Liquiditätsproblemen und zu niedrigen 
 Die in Kapitel 2 beschriebene wertbasierte Preisgestaltung ist nicht nur eine Frage der Positionierung. Sie ist auch eine Frage der finanziellen Stabilität. Wer ausreichend verdient, kann sich eine Reserve aufbauen. Wer keine Reserve hat, arbeitet ständig am Rand, und dort reicht ein schlechter Monat, um ins Rutschen zu geraten.
 
 Gewinn ist eine Rechnung. Liquidität ist die Fähigkeit, morgen noch tätig zu sein. Beides zusammen ist das, was ein Unternehmen stabil hält, und beides braucht Aufmerksamkeit, zu verschiedenen Zeiten und mit verschiedenen Werkzeugen. Das eine durch ehrliche Liquiditätsplanung, die andere durch konsequentes Debitorenmanagement und ausreichende Rücklagen. Wer beides vernachlässigt, weil das Geschäft gerade läuft, erfährt früher oder später, warum das kein guter Tausch ist.
+
+---
+
+## Kapitel 6: Das Unternehmen, das ohne dich funktioniert
+
+Es gibt einen Moment, den viele Gründer kennen und keiner gerne ausspricht: Das Unternehmen läuft, aber es läuft nur, weil man selbst immer da ist. Jede wichtige Entscheidung landet auf dem eigenen Schreibtisch. Jede Ausnahme wird selbst bearbeitet. Jeder Kunde, den man verlieren könnte, wird persönlich aufgefangen. Das fühlt sich anfangs nach Stärke an. Nach einer Weile fühlt es sich nach Gefängnis an.
+
+Der Fehler liegt nicht in der Arbeit selbst. Er liegt darin, wo sie geleistet wird. Es gibt einen Unterschied, der simpel klingt, aber in der Praxis erhebliche Konsequenzen hat: den Unterschied zwischen dem Arbeiten im Unternehmen und dem Arbeiten am Unternehmen. Wer im Unternehmen arbeitet, erbringt die Leistung, die das Unternehmen verkauft. Wer am Unternehmen arbeitet, baut die Strukturen, die diese Leistung auch ohne die eigene ständige Anwesenheit ermöglichen. Beides ist nötig. Aber das Verhältnis bestimmt, wie weit ein Unternehmen kommen kann.
+
+**Der Gründer als Flaschenhals**
+
+Die Phase, in der ein Unternehmen gegründet wird, erzeugt zwangsläufig eine Abhängigkeit vom Gründer. Man ist Vertrieb, Produktion, Kundenservice und Buchhaltung in einer Person. Das ist notwendig und sinnvoll, solange noch herausgefunden wird, was funktioniert. Problematisch wird es, wenn das Unternehmen wächst und diese Abhängigkeit nicht abnimmt, sondern zunimmt. Mehr Kunden bedeuten mehr Anfragen. Mehr Mitarbeiter bedeuten mehr Abstimmung. Mehr Umsatz bedeutet mehr Entscheidungen. Und alle davon landen immer noch beim Gründer.
+
+Das Muster entsteht nicht aus mangelnder Bereitschaft zur Abgabe. Es entsteht meist aus einer nachvollziehbaren Überzeugung: Wenn ich es selbst mache, ist es sicher. Wenn jemand anderes es macht, muss ich korrigieren. Und Korrigieren kostet mehr Zeit als selbst machen. Diese Überzeugung ist in frühen Phasen oft richtig. Aber sie hält auch dann noch an, wenn sie es nicht mehr ist.
+
+Ein Unternehmen, in dem der Gründer zur Engstelle geworden ist, hat ein strukturelles Problem, das sich nicht durch Mehrarbeit löst. Es löst sich nur, wenn die Arbeitsweise sich verändert: weg von der persönlichen Leistungserbringung, hin zum Aufbau von Strukturen, die diese Leistung reproduzierbar machen.
+
+**Was ein System ist und was es nicht ist**
+
+Das Wort System klingt nach Bürokratie, nach Checklisten und nach dem Gegenteil von dem, was viele Gründer an ihrer Arbeit schätzen. In Wirklichkeit ist ein System nichts anderes als eine Beschreibung davon, wie eine wiederkehrende Aufgabe gut erledigt werden kann, so klar, dass auch jemand anderes es nachvollziehen und ausführen kann.
+
+Wer dieselbe Art von Kundenanfrage zum fünften Mal auf dieselbe Weise bearbeitet, hat implizit schon ein System. Er hat es nur noch nicht aufgeschrieben. Das Aufschreiben ist der entscheidende Schritt, weil er das Wissen aus dem Kopf herauslöst und übertragbar macht. Nicht für alle Ewigkeit und nicht in perfekter Form. Aber gut genug, damit jemand anderes damit anfangen kann.
+
+Der häufigste Einwand an dieser Stelle ist: Jede Situation ist doch ein bisschen anders. Das stimmt. Aber der Kern der meisten wiederkehrenden Aufgaben ist deutlich ähnlicher, als er sich anfühlt, wenn man selbst mittendrin ist. Wer diesen Kern herausarbeitet, hat einen Baustein. Wer genug solcher Bausteine hat, hat ein Unternehmen, das läuft, auch wenn der Gründer einen Monat nicht da ist.
+
+**Das Loslassen als Kompetenz**
+
+Systeme zu bauen ist eine handwerkliche Aufgabe. Das Loslassen, das damit einhergeht, ist eine psychologische. Beides muss gelernt werden, und das Zweite ist meistens das Schwerere.
+
+Delegieren bedeutet nicht, dass die Arbeit schlechter wird. Es bedeutet zunächst oft, dass sie anders wird, auf eine Art, die nicht der eigenen entspricht. Der eigene Weg war gut, weil er über Zeit verfeinert wurde, nicht weil er der einzig mögliche ist. Wer das früh akzeptiert, spart sich eine Menge Reibung und kann die Menschen, denen er Aufgaben übergibt, tatsächlich besser werden lassen, statt einzugreifen, bevor sie die Chance hatten zu lernen.
+
+Was dabei hilft, ist eine klare Unterscheidung zwischen Ergebnis und Weg. Das Ergebnis, also was am Ende vorliegen soll, ist verhandelbar und wird klar kommuniziert. Der Weg dorthin ist Sache der Person, die die Aufgabe übernimmt. Wer hingegen vorgibt, wie genau etwas zu tun ist, delegiert keine Aufgabe, sondern eine Anleitung. Das erzeugt keine Verantwortung beim anderen, sondern Abhängigkeit von weiteren Anleitungen.
+
+**Die Verbindung zur Wachstumsfrage**
+
+Im vorigen Kapitel wurde gefragt, ob Wachstum ein Ziel oder ein Reflex ist. Systeme stehen in direkter Verbindung zu dieser Frage. Ein Unternehmen, das vollständig am Gründer hängt, kann nicht wachsen, ohne dass der Gründer selbst wächst, also mehr Stunden arbeitet, mehr Entscheidungen trifft, mehr trägt. Das hat Grenzen.
+
+Wer hingegen ein Unternehmen aufgebaut hat, in dem die wesentlichen Abläufe dokumentiert, delegiert und überprüft werden, kann wachsen, ohne dass jeder neue Schritt an seiner persönlichen Kapazität hängt. Das ist keine Garantie für Wachstum. Es ist die Voraussetzung dafür, dass Wachstum, wenn es kommt, das Unternehmen nicht zerbricht.
+
+Und für diejenigen, die bewusst nicht wachsen wollen, gilt dasselbe in anderer Form: Wer ein System gebaut hat, das ohne ständige persönliche Präsenz läuft, gewinnt Zeit. Nicht Zeit für mehr Arbeit, sondern Zeit für die Arbeit, die einem wirklich etwas bedeutet. Das ist vielleicht der überzeugendste Grund überhaupt, sich ernsthaft mit dem Unterschied zwischen im und am Unternehmen zu beschäftigen.
