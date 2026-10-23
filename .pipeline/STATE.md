@@ -595,3 +595,18 @@ Naechstes Thema: Business (da-sodagari-zehniyat, Kapitel 12)
 RUN END 2026-10-23T06:18:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle fertig
 Netzwerktest: 000 (403 proxy-blockiert)
 RUN START 2026-10-23T18:09:00Z Thema=Business
+
+## Lauf 2026-10-23 (Business Kapitel 12) Zusammenfassung
+Datum: 2026-10-23T18:16:00Z
+Thema: Business
+Slug: da-sodagari-zehniyat
+Titel: د سوداګرۍ ذهنیت
+Untertitel: د بریالیتوب لپاره دولسم مهم اصول
+Kapitel: 12 (دولسم باب: د پخوانیو مشتریانو ساتل، د سوداګرۍ اصلي ثروت)
+Kapitel-Status: abgeschlossen, ca. 900 Woerter Pashto (Kundenbindung, persoenliche Beziehung, Beschwerdemanagement, Treueprogramme, Kundenempfehlungen)
+Cover-Status: bereits vorhanden (img/da-sodagari-zehniyat-cover.jpg, 42KB PNG)
+PDF-Status: aktualisiert (415KB, 8 Seiten via Chromium, alle 12 Kapitel), books/da-sodagari-zehniyat.pdf
+Lesen-Seite-Status: aktualisiert mit Kapitel 12, lesen/da-sodagari-zehniyat.html
+Karten-Status: aktualisiert in index.html (Untertitel auf دولسم مهم اصول geaendert, Kundenbindung ergaenzt)
+Naechstes Thema: Roman (da-kali-khat, Kapitel 12)
+RUN END 2026-10-23T18:16:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle fertig
