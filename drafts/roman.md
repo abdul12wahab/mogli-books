@@ -317,3 +317,107 @@ Das wäre gut, sagte Jonas.
 Dienstag, sagte Alma. Gleiche Zeit.
 
 Er nickte und ging.
+
+## Kapitel 6: Was man aufschreibt
+
+Am Dienstag brachte Alma die Hefter aus 2023 und 2024 hervor, und Jonas merkte schon nach den ersten Seiten, dass etwas nicht stimmte. Nicht mit den Daten selbst, die waren so präzise und gleichmäßig wie immer. Sondern mit der Dichte der Einträge. Im Winter 2023 gab es eine Lücke von drei Wochen, im Frühling 2024 eine weitere von zehn Tagen, dann einen Einbruch in der Messfrequenz, der bis in den Sommer hinein anhielt. Die Handschrift war in dieser Zeit anders, kleiner, manchmal auch abweichend vom gewohnten sachlichen Ton. Ein Eintrag im April 2024 endete mit dem Satz: Trübung stark erhöht, kein Anlass erkennbar. Vielleicht Algen, vielleicht ich.
+
+Jonas legte den Hefter für einen Moment ab.
+
+Alma stand am Westfenster. Der Novemberwind drückte das Licht gegen die Scheibe, und Jonas sah, dass sie die Arme vor der Brust verschränkt hielt, nicht abweisend, sondern wie jemand, der Wärme festhält.
+
+Vielleicht ich, las er vor, weil er nicht wusste, ob er schweigen oder fragen sollte, und das Vorlesen irgendwo dazwischen lag.
+
+Alma drehte sich nicht um. Das war kein Fehler, sagte sie. Ich hatte 2024 eine Phase, in der die Messungen schwieriger waren.
+
+Was ist passiert?
+
+Eine Pause, in der der Wind an den Fensterrahmen drückte.
+
+Mein ehemaliger Betreuer ist gestorben. Im Februar. Wir hatten seit Jahren keinen Kontakt mehr, aber er war derjenige, der mir 2011 gesagt hat, dass ich für die Feldarbeit geeignet bin, als ich das selbst noch nicht wusste.
+
+Jonas sagte nichts. Er blätterte nicht weiter.
+
+Alma drehte sich um und setzte sich. Sie sah nicht auf die Hefter. Man vermisst manchmal Leute, die man nicht mehr sehen wollte, sagte sie. Das klingt widersprüchlich.
+
+Nein, sagte Jonas.
+
+Sie schaute ihn an.
+
+Ich habe vor drei Jahren mit jemandem zusammengearbeitet, sagte Jonas, einem Doktorvater, der mich unter Druck gesetzt hat, Daten anders zu berichten als sie waren. Ich habe das nicht gemacht. Er hat mich danach aus einem Projekt herausgedrängt, das ich zwei Jahre aufgebaut hatte. Ich denke nicht mehr täglich daran. Aber wenn ich manchmal an frühere Arbeit denke, an Ergebnisse, die gut waren, kommt er mit, ob ich will oder nicht.
+
+Alma hörte zu. Sie hatte diese Haltung, aufmerksam zu sein ohne zu nicken oder Laute zu machen, die Bestätigung simulierten. Jonas empfand das als angemessen.
+
+Sie kennen das also, sagte Alma.
+
+Das was?
+
+Dass Leute, an die man nicht denken will, trotzdem in der Arbeit sind. Unsichtbar, aber da.
+
+Jonas dachte darüber nach. Ja, sagte er. Obwohl ich glaube, dass es bei mir weniger Platz einnimmt als bei Ihnen.
+
+Alma sah ihn kurz an. Wahrscheinlich.
+
+Er fragte nicht, warum sie das so leicht zugab.
+
+Sie arbeiteten danach noch eineinhalb Stunden an den Daten. Die Lücken in 2023 und 2024 waren für seine Tiefenkorrekturen tatsächlich relevant, weniger wegen der fehlenden Messungen als wegen eines Musters, das sich ohne die Lücken nicht hätte zeigen lassen: einer leichten, regelmäßigen Absenkung der Nitratspitzen im Frühsommer, die auf eine langsame Verbesserung der Wasserqualität hindeutete. Klein, nicht signifikant für eine Veröffentlichung, aber real. Das Watt wurde ein wenig besser.
+
+Das hatte Alma nicht gesagt, als sie ihm die Hefter gezeigt hatte. Jonas wusste nicht, ob sie es nicht bemerkt hatte oder ob sie es für selbstverständlich hielt, dass er es selbst sehen würde.
+
+Er fragte nach.
+
+Ich habe es gesehen, sagte sie. Ich wollte nicht, dass Sie es übernehmen, bevor Sie die Daten selbst eingelesen haben.
+
+Warum nicht?
+
+Weil es sonst Ihre Auswertung wäre, aber meine Schlussfolgerung. Das vermischt sich dann.
+
+Das war eine Unterscheidung, die Jonas aus Lehrbüchern kannte, aber selten so nüchtern gehört hatte. Er stimmte ihr zu.
+
+Kurz vor vier brachte Alma Tee, ungefragt, grünen Tee in alten Emaille-Bechern, und setzte sich nicht wieder an den Tisch, sondern in den Sessel am Fenster. Jonas blieb am Tisch sitzen, und es entstand eine Stille, die nicht peinlich war und keine Füllung verlangte.
+
+Dann sagte Jonas: Hätten Sie den Aufsatz fertig geschrieben? Den aus Schottland?
+
+Er wusste, dass es eine Grenzfrage war. Nicht wegen des Themas, sondern wegen des Tones. Es war die erste Frage, die er stellte, ohne vorher zu überlegen, ob er berechtigt war, sie zu stellen.
+
+Alma sah aus dem Fenster. Das Watt lag schon halb unter Wasser. Die Flut kam früh jetzt, Mitte November.
+
+Ich weiß es nicht, sagte sie. Ich war nicht fertig, als ich gegangen bin. Und ich weiß nicht mehr genau, ob das der Grund war oder die Folge.
+
+Er nickte, obwohl sie nicht in seiner Richtung schaute.
+
+Manchmal glaube ich, sie hätte ihn fertig geschrieben, sagte Alma. Die Frau auf dem Foto. Aber das ist jemand anderes als ich.
+
+Das ist eine scharfe Formulierung.
+
+Alma drehte sich um und schaute ihn an. Es war klar. Auf eine Art, die nicht klagend war.
+
+Vielleicht, sagte sie. Oder es ist nur genau.
+
+Jonas hielt den Becher mit beiden Händen, wie er gesehen hatte, dass sie es tat.
+
+Ich komme zurück nach Kiel, sagte er. Im Januar. Ich schreibe die Arbeit fertig, reiche sie ein, und dann sehe ich, was als Nächstes kommt. Ich weiß das noch nicht genau.
+
+Warum sagen Sie mir das?
+
+Er überlegte kurz. Weil ich das Gefühl habe, dass Sie das fragen wollten, sagte er, und weil es keine Antwort ist, die mich gut aussehen lässt, aber eine, die stimmt.
+
+Alma sah ihn an, länger diesmal. Dann kehrte ihr Blick wieder zum Fenster zurück.
+
+Das Licht war fast weg. In einer halben Stunde würde es dunkel sein.
+
+Ich habe die Daten aus 2019 und 2020 noch einmal angeschaut, sagte Alma, bevor er gehen konnte. Die ersten zwei Jahre. Ich war damals öfter im Watt als jetzt, ich kannte die Stellen noch nicht so gut, habe öfter Fehler gemacht und sie überschrieben. Die Hefter sind an manchen Stellen unordentlicher. Ich habe sie Ihnen bisher nicht gezeigt.
+
+Wollen Sie das?
+
+Alma stand auf und nahm die leeren Becher vom Tisch.
+
+Nächste Woche, sagte sie. Mittwoch.
+
+Er nickte und stand auf.
+
+Draußen war der Weg zur Pension still. Der Wind lag flach und roch nach Salz und etwas Näherliegendem, nassem Gras vielleicht, oder dem Schlick, der langsam unter dem Wasser verschwand. Jonas ging ohne Eile. Er hatte das Notizbuch in der Tasche, aber er schlug es nicht auf. Manche Dinge schrieb man auf, wenn man wieder zu Hause war, an einem Tisch, mit etwas Abstand zu dem, was gewesen war. Andere Dinge ließ man zunächst sein, weil sie noch nicht die Form hatten, die für Worte taugte.
+
+Heinrich Moeller war nicht am Anleger. Der Steg lag leer. Irgendwo im Dorf brannte bereits Licht.
+
+Elke Brodersen hatte Abendessen vorbereitet, Linsensuppe, heiß, und stellte einen Krug Wasser dazu, ohne zu fragen. Jonas aß allein, wie immer. Er dachte nicht viel. Manchmal reichte ein Tag, ohne dass man ihn auswertete.

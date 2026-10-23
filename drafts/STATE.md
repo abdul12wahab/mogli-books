@@ -19,12 +19,13 @@
 | 2026-10-20   | Roman                       | 5       | Persoenlichkeitsentwicklung |
 | 2026-10-21   | Persoenlichkeitsentwicklung | 6       | Business                    |
 | 2026-10-22   | Business                    | 6       | Roman                       |
+| 2026-10-23   | Roman                       | 6       | Persoenlichkeitsentwicklung |
 
 ## Kapitelstand je Thema
 
 - Persoenlichkeitsentwicklung: Kapitel 6
 - Business: Kapitel 6
-- Roman: Kapitel 5
+- Roman: Kapitel 6
 
 ## Roman-Metadaten
 
