@@ -593,3 +593,5 @@ Lesen-Seite-Status: aktualisiert mit Kapitel 13, lesen/da-dzan-jawrawalo-lar.htm
 Karten-Status: aktualisiert in index.html (Beschreibung auf 13 Kapitel geaendert)
 Naechstes Thema: Business (da-sodagari-zehniyat, Kapitel 12)
 RUN END 2026-10-23T06:18:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle fertig
+Netzwerktest: 000 (403 proxy-blockiert)
+RUN START 2026-10-23T18:09:00Z Thema=Business
