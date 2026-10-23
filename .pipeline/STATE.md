@@ -578,3 +578,18 @@ Naechstes Thema: Persoenlichkeitsentwicklung (da-dzan-jawrawalo-lar, Kapitel 13)
 RUN END 2026-10-22T18:22:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite fertig, Karte bereits vorhanden
 Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
 RUN START 2026-10-23T06:12:01Z Thema=Persoenlichkeitsentwicklung
+
+## Lauf 2026-10-23 (Persoenlichkeitsentwicklung Kapitel 13) Zusammenfassung
+Datum: 2026-10-23T06:18:00Z
+Thema: Persoenlichkeitsentwicklung
+Slug: da-dzan-jawrawalo-lar
+Titel: د ځان جوړولو لار
+Untertitel: د پاکو عادتونو قوت
+Kapitel: 13 (درلسم باب: د ناکامۍ پس بیا پورته کیدل)
+Kapitel-Status: abgeschlossen, ca. 900 Woerter Pashto (Resilienz, Scheitern als Feedback, Wachstumsdenken, pashtunische Weisheit)
+Cover-Status: bereits vorhanden (img/da-dzan-jawrawalo-lar-cover.jpg, 50KB JPEG)
+PDF-Status: aktualisiert (74KB, 33 Seiten via fpdf2, alle 13 Kapitel), books/da-dzan-jawrawalo-lar.pdf
+Lesen-Seite-Status: aktualisiert mit Kapitel 13, lesen/da-dzan-jawrawalo-lar.html
+Karten-Status: aktualisiert in index.html (Beschreibung auf 13 Kapitel geaendert)
+Naechstes Thema: Business (da-sodagari-zehniyat, Kapitel 12)
+RUN END 2026-10-23T06:18:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle fertig
