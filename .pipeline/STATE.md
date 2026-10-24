@@ -629,3 +629,18 @@ Naechstes Thema: Persoenlichkeitsentwicklung (da-dzan-jawrawalo-lar, Kapitel 14)
 RUN END 2026-10-24T06:30:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite fertig, Karte bereits vorhanden
 Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
 RUN START 2026-10-24T18:09:00Z Thema=Persoenlichkeitsentwicklung
+
+## Lauf 2026-10-24 (Persoenlichkeitsentwicklung Kapitel 14) Zusammenfassung
+Datum: 2026-10-24T18:15:00Z
+Thema: Persoenlichkeitsentwicklung
+Slug: da-dzan-jawrawalo-lar
+Titel: د ځان جوړولو لار
+Untertitel: د پاکو عادتونو قوت
+Kapitel: 14 (څوارلسم باب: د اړیکو ارزښت)
+Kapitel-Status: abgeschlossen, ca. 660 Woerter Pashto (Wert von Beziehungen, Einsamkeit, islamisches Konzept Silah-ar-Rahim, aktives Zuhoeren, Hilfe geben)
+Cover-Status: bereits vorhanden (img/da-dzan-jawrawalo-lar-cover.jpg, 50KB JPEG)
+PDF-Status: aktualisiert (300KB, 8 Seiten via Playwright/Chromium, alle 14 Kapitel), books/da-dzan-jawrawalo-lar.pdf
+Lesen-Seite-Status: aktualisiert mit Kapitel 14, lesen/da-dzan-jawrawalo-lar.html
+Karten-Status: aktualisiert in index.html (Beschreibung auf 14 Kapitel geaendert, d-arikao-arzasht erwaehnt)
+Naechstes Thema: Business (da-sodagari-zehniyat, Kapitel 13)
+RUN END 2026-10-24T18:15:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle fertig
