@@ -259,3 +259,49 @@ Im vorigen Kapitel wurde gefragt, ob Wachstum ein Ziel oder ein Reflex ist. Syst
 Wer hingegen ein Unternehmen aufgebaut hat, in dem die wesentlichen Abläufe dokumentiert, delegiert und überprüft werden, kann wachsen, ohne dass jeder neue Schritt an seiner persönlichen Kapazität hängt. Das ist keine Garantie für Wachstum. Es ist die Voraussetzung dafür, dass Wachstum, wenn es kommt, das Unternehmen nicht zerbricht.
 
 Und für diejenigen, die bewusst nicht wachsen wollen, gilt dasselbe in anderer Form: Wer ein System gebaut hat, das ohne ständige persönliche Präsenz läuft, gewinnt Zeit. Nicht Zeit für mehr Arbeit, sondern Zeit für die Arbeit, die einem wirklich etwas bedeutet. Das ist vielleicht der überzeugendste Grund überhaupt, sich ernsthaft mit dem Unterschied zwischen im und am Unternehmen zu beschäftigen.
+
+---
+
+## Kapitel 7: Die erste Einstellung
+
+Es gibt einen bestimmten Moment, den viele Gründer beschreiben, wenn man sie lange genug fragt. Irgendwann zwischen dem dritten und fünften Jahr, manchmal früher, manchmal später, taucht eine Aufgabe auf, die schon seit Wochen auf der Liste steht und es nie nach oben schafft. Nicht weil sie unwichtig wäre, sondern weil es immer etwas gibt, das dringender ist. An diesem Punkt denkt man zum ersten Mal ernsthaft daran, jemanden einzustellen. Nicht als abstrakte Zukunftsmöglichkeit, sondern als konkreten nächsten Schritt.
+
+Dieser Moment kommt meistens zu spät. Das ist die häufigere Variante. Manchmal aber auch zu früh, nämlich dann, wenn Wachstum gerade aufregend ist und man glaubt, ein Team bauen zu müssen, bevor die eigentliche Arbeit dafür stabil genug ist. Beides kostet Geld und Zeit, und der Unterschied liegt nicht darin, wie optimistisch oder pessimistisch jemand grundsätzlich ist, sondern darin, ob man die eigene Situation ehrlich beurteilt hat.
+
+**Wer der erste Mitarbeiter wirklich sein sollte**
+
+Der instinktive Gedanke bei der ersten Einstellung lautet: Ich stelle jemanden ein, der die Dinge macht, die ich nicht mag. Das klingt vernünftig. Es ist trotzdem meistens der falsche Ausgangspunkt.
+
+Wer sich überlegt, welche Aufgaben er selbst am liebsten abgeben würde, denkt vom eigenen Komfort aus, nicht vom Engpass des Unternehmens. Diese beiden Punkte decken sich manchmal. Aber wenn ein Unternehmen stagniert, weil der Gründer zu viel Zeit mit Koordination und Kommunikation verbringt, wird es nicht dadurch besser, dass jetzt jemand anderes die Buchhaltung macht. Die Zeit wird nicht frei, weil sie sich einfach mit anderen Aufgaben füllt.
+
+Die sinnvollere Frage ist die nach dem echten Engpass: Was wäre möglich, wenn eine bestimmte Aufgabe vollständig von jemandem anderen übernommen werden würde, der darin gut ist? Welcher Flaschenhals löst sich auf? Welche neue Arbeit würde dadurch entstehen, die das Unternehmen weiterbringt? Wer von diesem Engpass aus denkt, landet meistens bei einem anderen Profil als bei der Variante, bei der man sich einfach fragt, was einem lästig ist.
+
+**Die finanzielle Wirklichkeit**
+
+Ein Mitarbeiter kostet mehr, als sein Bruttogehalt vermuten lässt. Das wissen die meisten in der Theorie. In der Praxis sorgt es trotzdem regelmäßig für Überraschungen. Die Arbeitgeberanteile zur Sozialversicherung, also Renten-, Kranken-, Pflege- und Arbeitslosenversicherung, machen in Deutschland ungefähr zwanzig Prozent des Bruttogehalts aus, die der Arbeitgeber zusätzlich trägt. Dazu kommen Urlaub und Feiertage, die bezahlt werden, obwohl keine Leistung erbracht wird, krankheitsbedingte Ausfallzeiten, Arbeitskleidung oder -ausrüstung, je nach Branche, und der eigene Zeitaufwand für Einarbeitung, Feedback und Führung, der in den ersten Monaten erheblich ist.
+
+Ein Mitarbeiter mit einem Bruttogehalt von 3.000 Euro kostet den Arbeitgeber unter Berücksichtigung aller Nebenkosten näher an 4.000 Euro im Monat, tendenziell mehr, wenn Einarbeitung und Fluktuation eingerechnet werden. Wer diese Zahl als Grundlage einer Entscheidung nimmt, trifft sie auf realistischerer Basis als jemand, der nur das Nettogehalt im Kopf hat.
+
+Das ist kein Argument gegen Einstellungen. Es ist ein Argument dafür, die Entscheidung mit offenem Blick auf die Zahlen zu treffen. Wer prüft, welchen Umsatz oder welche Kapazitätssteigerung die Einstellung ermöglicht, und ob das die monatlichen Gesamtkosten übersteigt, hat die Frage richtig gestellt.
+
+**Der Zwischenschritt: Freiberufler und Auftragnehmer**
+
+Für viele kleine Unternehmen ist der direkteste Weg zur ersten festen Einstellung nicht der beste. Ein Freiberufler oder externer Auftragnehmer für eine klar umrissene Aufgabe ist weniger bindend, weniger kostenintensiv in der Anlaufphase, und er erlaubt es zu testen, ob die Aufgabe so, wie sie heute beschrieben ist, tatsächlich das Richtige ist, oder ob sie sich in der Praxis anders anfühlt.
+
+Das ist kein dauerhaftes Modell für alles. Aufgaben, die kontinuierliche Präsenz und Unternehmenswissen erfordern, lassen sich auf Dauer schlechter an Externe delegieren. Aber als erster Schritt gibt die Zusammenarbeit mit einem Freiberufler Klarheit: Was genau brauche ich? Wie soll diese Person in das Unternehmen eingebettet sein? Was ist mir wichtig, was habe ich vorher nicht bedacht? Diese Klarheit ist beim festen Anstellungsverhältnis viel wertvoller als eine vage Vorstellung davon, dass man Hilfe braucht.
+
+**Der Übergang vom Macher zum Führenden**
+
+Was bei der ersten Einstellung selten ausgesprochen wird, ist die Verschiebung, die damit einhergeht. Man hört auf, ausschließlich Leistung zu erbringen, und fängt an, auch für jemand anderen verantwortlich zu sein. Das klingt selbstverständlich. Es fühlt sich dennoch für die meisten nicht selbstverständlich an.
+
+Führung kostet Zeit, die vorher in die eigentliche Arbeit geflossen ist. Ein Gespräch, das erklärt, warum etwas so gemacht wird und nicht anders, braucht Geduld, die in einem hektischen Arbeitstag knapp ist. Ein Mitarbeiter, der etwas auf eine Art erledigt, die nicht der eigenen entspricht, erzeugt einen Reflex zur Einmischung, der das Gegenteil von Delegation ist. All das ist normal. Aber wer nicht bereit ist, diese Dinge tatsächlich zu leisten, kauft sich mit einer Einstellung keinen Zeitgewinn, sondern eine neue Aufgabe, für die er sich bisher nicht vorbereitet hat.
+
+Das vorige Kapitel hat die Unterscheidung zwischen Ergebnis und Weg als Grundlage guter Delegation beschrieben. Bei einem festen Mitarbeiter gilt dasselbe, nur dauerhafter. Wer den Weg vorschreibt, muss immer erreichbar sein. Wer das Ergebnis definiert und den Weg freilässt, schafft die Voraussetzung, dass jemand anderes Verantwortung übernimmt und diese Verantwortung mit der Zeit wächst.
+
+**Was Systeme damit zu tun haben**
+
+Im vorigen Kapitel wurden Systeme als Dokumentation von Abläufen beschrieben, die das Unternehmen unabhängiger vom Gründer machen. Eine erste Einstellung zeigt sehr schnell, ob diese Systeme tatsächlich vorhanden sind oder ob das Wissen noch im Kopf des Gründers sitzt.
+
+Wer jemanden einarbeitet und dabei merkt, dass er die eigenen Abläufe nicht erklären kann, ohne dabei alles selbst zu tun, hat ein Hinweis erhalten, der mit der Einstellung selbst nichts zu tun hat. Das Fundament war noch nicht fertig. Das ist kein Grund, die Einstellung zu bereuen. Es ist ein Grund, das Aufschreiben und Strukturieren jetzt ernstzunehmen, weil es sonst bei zwei Mitarbeitern oder fünf nicht besser wird, sondern schlechter.
+
+Die erste Einstellung ist damit kein Abschluss, sondern ein Test. Ein Test dafür, ob das Unternehmen so aufgestellt ist, dass Wissen übertragen werden kann. Wer diesen Test besteht, hat mehr als einen Mitarbeiter gewonnen. Er hat bestätigt, dass das, was in den vergangenen Kapiteln über Nische, Systeme und Struktur beschrieben wurde, in der Praxis hält.
