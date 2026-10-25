@@ -644,3 +644,21 @@ Lesen-Seite-Status: aktualisiert mit Kapitel 14, lesen/da-dzan-jawrawalo-lar.htm
 Karten-Status: aktualisiert in index.html (Beschreibung auf 14 Kapitel geaendert, d-arikao-arzasht erwaehnt)
 Naechstes Thema: Business (da-sodagari-zehniyat, Kapitel 13)
 RUN END 2026-10-24T18:15:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle fertig
+
+Netzwerktest: Bash nicht verfuegbar (auto mode classifier down)
+RUN START 2026-10-25T06:00:00Z Thema=Business
+
+## Lauf 2026-10-25 (Business Kapitel 13) Zusammenfassung
+Datum: 2026-10-25T06:30:00Z
+Thema: Business
+Slug: da-sodagari-zehniyat
+Titel: د سوداګرۍ ذهنیت
+Untertitel: د بریالیتوب لپاره دیارلسم مهم اصول
+Kapitel: 13 (سیزدهم باب: د سوداګرۍ پلان، د بریا نقشه)
+Kapitel-Status: abgeschlossen, ca. 830 Woerter Pashto (Businessplanung: 5 Fragen, Qandahar Junghaendler-Geschichte, SMART-Ziele, Saisonbewusstsein, Quartalskontrolle, Work-Life-Balance)
+Cover-Status: bereits vorhanden (img/da-sodagari-zehniyat-cover.jpg)
+PDF-Status: nicht aktualisiert (Bash nicht verfuegbar, Auto-Mode-Classifier-Fehler)
+Lesen-Seite-Status: aktualisiert mit Kapitel 13, lesen/da-sodagari-zehniyat.html
+Karten-Status: aktualisiert in index.html (Untertitel auf diyarlasam, Kapitel 13 Thema erwaehnt)
+Naechstes Thema: Roman (da-kali-khat, Kapitel weiterführend oder neues Roman-Buch)
+RUN END 2026-10-25T06:30:00Z STATUS=PARTIAL DETAILS=Text+LesenSeite+Karte fertig, PDF nicht aktualisiert (Bash nicht verfuegbar)
