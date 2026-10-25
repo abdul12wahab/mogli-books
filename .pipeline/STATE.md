@@ -662,3 +662,5 @@ Lesen-Seite-Status: aktualisiert mit Kapitel 13, lesen/da-sodagari-zehniyat.html
 Karten-Status: aktualisiert in index.html (Untertitel auf diyarlasam, Kapitel 13 Thema erwaehnt)
 Naechstes Thema: Roman (da-kali-khat, Kapitel weiterführend oder neues Roman-Buch)
 RUN END 2026-10-25T06:30:00Z STATUS=PARTIAL DETAILS=Text+LesenSeite+Karte fertig, PDF nicht aktualisiert (Bash nicht verfuegbar)
+Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
+RUN START 2026-10-25T18:09:00Z Thema=Roman
