@@ -421,3 +421,113 @@ Draußen war der Weg zur Pension still. Der Wind lag flach und roch nach Salz un
 Heinrich Moeller war nicht am Anleger. Der Steg lag leer. Irgendwo im Dorf brannte bereits Licht.
 
 Elke Brodersen hatte Abendessen vorbereitet, Linsensuppe, heiß, und stellte einen Krug Wasser dazu, ohne zu fragen. Jonas aß allein, wie immer. Er dachte nicht viel. Manchmal reichte ein Tag, ohne dass man ihn auswertete.
+
+## Kapitel 7: Die frühen Hefter
+
+Am Mittwoch war es beim Aufwachen so dunkel, dass Jonas zunächst glaubte, zu früh aufgestanden zu sein. Dann sah er die Uhr: halb acht. Der Novemberhimmel drückte tief auf die Insel, schwere Schichtbewölkung, und die Fenster der Pension beschlugen von innen, weil die Heizung nicht warmhielt, was das Wetter abzog.
+
+Er frühstückte, machte Notizen über die Proben vom Vortag und wartete, bis es Zeit war.
+
+Alma öffnete die Tür mit den zwei Heftern bereits in der Hand. Der erste war dünner, der zweite fast halb leer, und die Einbände waren abgegriffener als die der neueren. Sie legte beide auf den Tisch und setzte sich.
+
+Ich habe sie nicht mehr angeschaut, seit ich Ihnen die anderen gezeigt habe, sagte sie.
+
+Jonas nickte und schlug den ersten auf. 2019, Frühling, die ersten Einträge vom März. Die Handschrift war dieselbe, aber weniger gefestigt. Kleinere Buchstaben, unregelmäßiger Zeilenabstand, als hätte die Hand noch nicht entschieden, wie sie auf diesem Papier schreiben wollte. Die erste Seite enthielt kein Datum, nur eine Koordinate und den Wert, dann einen Strich, dann: Messung wiederholt, Ergebnis gleich.
+
+Er überflog die nächsten Seiten ohne zu stoppen. Alma saß am Tisch und schaute nicht hin, sondern auf einen Punkt links vom ersten Hefter, der kein konkreter Punkt war.
+
+Hier, sagte Jonas und hob den Kopf. Mitte April, 2019. Fünf Einträge in einer Woche, alle innerhalb von zwei Stunden Zeitspanne. Das ist sehr eng.
+
+Ich wusste nicht, wie oft man messen musste. Ich hatte kein Protokoll, keinen Vergleichswert. Ich habe einfach angefangen.
+
+Und dann?
+
+Dann habe ich ein altes Methodenhandbuch bestellt, über das Institut in Hamburg, wo ich früher war. Das hat drei Wochen gedauert. Die Lücke hier, er zeigte auf eine Stelle, ist die drei Wochen.
+
+Jonas sah sich die Lücke an. Sechzehn Tage, keine Einträge. Dann, Ende Mai, der nächste Eintrag, sauber und datiert, in einer Handschrift, die schon etwas mehr Entschiedenheit hatte.
+
+Im zweiten Hefter, 2019 Sommer und Herbst, waren die Notizen dichter. Einige Einträge enthielten Korrekturen, nicht übergeschrieben, sondern danebenstehend, mit einem kleinen Pfeil. Falsch kalibriertes Gerät, stand an einer Stelle. Wert ungültig, neu genommen. An einer anderen Stelle, im September, ein längerer Eintrag, der unter den Zahlen stand: Priel bei Nordostwind anders. Keine Messung, nur Beobachtung. Schreibe es trotzdem auf.
+
+Jonas las den Satz zweimal.
+
+Schreibe es trotzdem auf.
+
+Er schaute auf. Alma hatte das noch immer nicht angesehen.
+
+Wussten Sie damals, wozu das gut sein würde? Die Beobachtungen, die nichts mit den Messwerten zu tun hatten?
+
+Sie schüttelte den Kopf. Ich wusste nicht einmal genau, wozu die Messwerte selbst gut sein würden.
+
+Warum dann?
+
+Alma lehnte sich leicht zurück. Der Stuhl stand am Tisch, nicht am Fenster, und Jonas bemerkte, dass sie heute anders saß als bei früheren Besuchen. Nicht zum Watt gewandt, sondern ihm gegenüber.
+
+Weil ich in Hamburg aufgehört hatte, aufzuschreiben, sagte sie. Nicht sofort, aber schrittweise. Erst die Einreichungen, dann die Notizen, dann die privaten Aufzeichnungen. Das hört man von außen vielleicht an, als würde man einfach weniger schreiben. Von innen ist es anders. Man fängt an, das, was man sieht, nicht mehr festzuhalten. Und dann sieht man weniger.
+
+Jonas sagte nichts.
+
+Als ich hier ankam, fuhr Alma fort, hatte ich fast ein Jahr lang wenig aufgeschrieben. Ich war noch Wissenschaftlerin vom Ausbildungsweg her, ich wusste noch, wie man misst. Also habe ich angefangen zu messen. Nicht weil jemand die Daten wollte, sondern weil es das war, was ich noch konnte.
+
+Er blätterte zur letzten Seite des zweiten Hefters. Dezember 2019, die Einträge häufiger und ruhiger, eine Handschrift, die sich eingependelt hatte. Die Notizen waren kürzer geworden, sachlicher, aber die kleinen Randbeobachtungen waren geblieben, jetzt in einer eigenen Spalte, nicht unter die Zahlen gemischt.
+
+Sie haben sich selbst ein System entwickelt, sagte Jonas.
+
+Alma sah auf die Seite. Es dauerte einen Moment, bis sie antwortete: Ich habe nicht nachgedacht dabei. Ich habe einfach gemerkt, dass die Randnotizen sonst im Weg standen.
+
+Das klingt nach einem System.
+
+Sie zog den Hefter zu sich und betrachtete die letzte Seite. Ihr Gesicht hatte den abwägenden Ausdruck, den Jonas inzwischen kannte, aber der war jetzt etwas anders, weicher, wie bei jemandem, der eine alte Fotografie betrachtet und nicht entscheiden kann, ob das Gefühl dabei angenehm ist oder nicht.
+
+Ich habe das seit fünf Jahren nicht mehr gelesen, sagte sie.
+
+Hat es sich verändert?
+
+Sie legte den Hefter ab. Was man liest, oder was man dabei denkt?
+
+Beides, sagte Jonas.
+
+Alma stand auf und trat ans Nordfenster. Das Watt lag still unter dem grauen Licht, die Priele mit Wasser gefüllt, kaum von der Oberfläche des Watts zu unterscheiden. Ein Tag, an dem Grenzen verschwammen, Wasser und Schlick und Himmel ineinanderflossen.
+
+Ich dachte damals, sagte Alma, ohne sich umzudrehen, dass es ein Übergangsort sein würde. Dass ich hierbleibe, bis ich weiß, was als Nächstes kommt.
+
+Und dann?
+
+Und dann kam nichts als Nächstes. Das hört sich schlimm an. Aber irgendwann war ich so lange hier, dass der Übergang nicht mehr der richtige Begriff war.
+
+Jonas schloss den Hefter und legte ihn ordentlich zum anderen.
+
+Er fragte sich, ob es das war, was Menschen meinten, wenn sie sagten, sie hätten an einem Ort angefangen. Nicht eine bewusste Entscheidung, sondern das schrittweise Aufhören einer anderen Erwartung.
+
+Darf ich fragen, sagte er, was damals in Hamburg passiert ist? Beim Institut?
+
+Alma stand immer noch am Fenster. Eine Pause, die nichts Abwehrendes hatte.
+
+Ich war zwölf Jahre dort, sagte sie. Gute Arbeit, glaube ich. Kolleginnen, die ich schätzte. Und dann hat sich etwas verändert, das sich von innen nicht benennen lässt. Man arbeitet, und die Arbeit hat immer weniger Gewicht. Man schreibt, und die Worte treffen die Sache immer weniger. Ich habe angefangen, in der Bibliothek zu sitzen und alte Aufsätze zu lesen, nicht wegen der Inhalte, sondern wegen der Sätze. Wie die Leute damals schrieben.
+
+Jonas wartete.
+
+Dann hat mein Betreuer, der, der gestorben ist, mir im Herbst 2015 gesagt, dass mein letzter Einreichungsversuch grundsätzlich stark sei, aber die Schlussfolgerungen zu vorsichtig. Dass ich zu wenig behauptete, was die Daten zeigten. Er hatte nicht Unrecht. Aber ich habe das gehört und gedacht: Ich will nicht mehr behaupten. Ich will nur noch aufschreiben, was wirklich da ist.
+
+Das war der Anfang vom Ende, sagte Jonas. Nicht als Frage.
+
+Alma drehte sich um.
+
+Das war das Ende, sagte sie. Der Anfang war dieser Satz.
+
+Sie setzte sich wieder an den Tisch. Jonas saß ihr gegenüber und hatte die Hände nebeneinander auf dem Tisch, beide leer, kein Stift, kein Notizbuch. Alma bemerkte das. Sie sagte nichts darüber.
+
+Sie arbeiteten noch eine Stunde an den Frühjahrsdaten 2019, die für seine Tiefen-Kalibrierung wenig brachten, aber ein Referenzbild der ungestörten Ausgangslage gaben. Jonas machte Notizen, Alma korrigierte einmal eine Schätzung, die er aus einem der älteren Messwerte abgeleitet hatte. Das war alles, was zu korrigieren war.
+
+Beim Gehen sagte Jonas: Ich habe noch drei Wochen im Feld. Dann muss ich zurück nach Kiel.
+
+Anfang Dezember.
+
+Ja.
+
+Alma stand in der Tür. Draußen war der Himmel immer noch niedrig, aber das Licht hatte sich leicht aufgehellt, genug, um die Konturen der Deichkante zu erkennen.
+
+Dann haben wir noch Zeit, sagte sie, für den Rest.
+
+Jonas nickte. Er verstand, dass sie die Daten meinte. Die 2020er Hefter, die noch auf dem Regal lagen. Er verstand auch, dass das nicht das einzige war, was sie meinte.
+
+Er ging. Der Weg zur Pension war in zwölf Minuten zurückgelegt, er kannte ihn inzwischen auswendig. Die Insel war klein genug, dass alles wiederkehrte.
