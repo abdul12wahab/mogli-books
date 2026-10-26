@@ -696,3 +696,18 @@ Lesen-Seite-Status: aktualisiert mit Kapitel 15, lesen/da-dzan-jawrawalo-lar.htm
 Karten-Status: aktualisiert in index.html (Beschreibung auf 15 Kapitel und پر ځان باور ergaenzt)
 Naechstes Thema: Business (da-sodagari-zehniyat, Kapitel 14)
 RUN END 2026-10-26T06:22:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle fertig
+
+## Lauf 2026-10-26 (Business Kapitel 14) Zusammenfassung
+Datum: 2026-10-26T18:18:00Z
+Thema: Business
+Slug: da-sodagari-zehniyat
+Titel: د سوداګرۍ ذهنیت
+Untertitel: د بریالیتوب لپاره څوارلسم مهم اصول
+Kapitel: 14 (څوارلسم باب: د لومړي کارمند موندل، د ودانۍ پیل)
+Kapitel-Status: abgeschlossen, ca. 850 Woerter Pashto (Erster Mitarbeiter, Team-Aufbau, Vertrauen, Kosten, Arbeitskultur)
+Cover-Status: bereits vorhanden (img/da-sodagari-zehniyat-cover.jpg, 42KB PNG)
+PDF-Status: aktualisiert (216KB, 8 Seiten via Playwright/Chromium, alle 14 Kapitel), books/da-sodagari-zehniyat.pdf
+Lesen-Seite-Status: aktualisiert mit Kapitel 14, lesen/da-sodagari-zehniyat.html
+Karten-Status: aktualisiert in index.html (Untertitel auf څوارلسم مهم اصول, Beschreibung mit Karmand ergaenzt)
+Naechstes Thema: Roman (da-kali-khat, Kapitel 14)
+RUN END 2026-10-26T18:18:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle fertig
