@@ -730,3 +730,18 @@ Naechstes Thema: Persoenlichkeitsentwicklung (da-dzan-jawrawalo-lar, Kapitel 16)
 RUN END 2026-10-27T06:18:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle fertig
 Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
 RUN START 2026-10-27T18:10:35Z Thema=Persoenlichkeitsentwicklung
+
+## Lauf 2026-10-27 (Persoenlichkeitsentwicklung Kapitel 16) Zusammenfassung
+Datum: 2026-10-27T18:15:00Z
+Thema: Persoenlichkeitsentwicklung
+Slug: da-dzan-jawrawalo-lar
+Titel: د ځان جوړولو لار
+Untertitel: د پاکو عادتونو قوت
+Kapitel: 16 (شپاړسم باب: د شکرګزارۍ ځواک)
+Kapitel-Status: abgeschlossen, ca. 900 Woerter Pashto (Dankbarkeit/Shukr, Quran-Vers lئن شکرتم لازیدنکم, Forschungsergebnisse, Pashto-Kultur, praktische Ubungen, Zibane und Amal Shukr)
+Cover-Status: bereits vorhanden (img/da-dzan-jawrawalo-lar-cover.jpg)
+PDF-Status: aktualisiert (326KB, 8 Seiten via Playwright/Chromium, alle 16 Kapitel), books/da-dzan-jawrawalo-lar.pdf
+Lesen-Seite-Status: aktualisiert mit Kapitel 16, lesen/da-dzan-jawrawalo-lar.html
+Karten-Status: aktualisiert in index.html (Beschreibung auf 16 Kapitel und شکرګزارۍ ځواک ergaenzt)
+Naechstes Thema: Business (da-sodagari-zehniyat, Kapitel 15)
+RUN END 2026-10-27T18:15:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle fertig
