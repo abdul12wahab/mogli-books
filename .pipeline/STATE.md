@@ -713,3 +713,18 @@ Naechstes Thema: Roman (da-kali-khat, Kapitel 14)
 RUN END 2026-10-26T18:18:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle fertig
 Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
 RUN START 2026-10-27T06:13:42Z Thema=Roman
+
+## Lauf 2026-10-27 (Roman Kapitel 14) Zusammenfassung
+Datum: 2026-10-27T06:13:42Z
+Thema: Roman
+Slug: da-kali-khat
+Titel: د کلي خط
+Untertitel: د یوه ورک نیکه کیسه
+Kapitel: 14 (څوارلسم باب: د مور لپاره)
+Kapitel-Status: abgeschlossen, ca. 850 Woerter Pashto (Nowruz ruft seine Mutter an, teilt Briefe-Entdeckung mit ihr, Mutter erklaert beide Seiten des Schmerzes, Nowruz schickt Kurzgeschichte an Pashto-Literaturjournal)
+Cover-Status: bereits vorhanden (img/da-kali-khat-cover.jpg, 38KB PNG)
+PDF-Status: aktualisiert (86KB, 46 Seiten via fpdf2/python3.13, alle 14 Kapitel), books/da-kali-khat.pdf
+Lesen-Seite-Status: aktualisiert mit Kapitel 14, lesen/da-kali-khat.html
+Karten-Status: aktualisiert in index.html (Beschreibung auf 14 Kapitel und د مور لپاره ergaenzt)
+Naechstes Thema: Persoenlichkeitsentwicklung (da-dzan-jawrawalo-lar, Kapitel 16)
+RUN END 2026-10-27T06:18:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle fertig
