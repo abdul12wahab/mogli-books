@@ -745,3 +745,5 @@ Lesen-Seite-Status: aktualisiert mit Kapitel 16, lesen/da-dzan-jawrawalo-lar.htm
 Karten-Status: aktualisiert in index.html (Beschreibung auf 16 Kapitel und شکرګزارۍ ځواک ergaenzt)
 Naechstes Thema: Business (da-sodagari-zehniyat, Kapitel 15)
 RUN END 2026-10-27T18:15:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle fertig
+Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
+RUN START 2026-10-28T06:13:08Z Thema=Business
