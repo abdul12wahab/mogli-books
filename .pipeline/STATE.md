@@ -747,3 +747,18 @@ Naechstes Thema: Business (da-sodagari-zehniyat, Kapitel 15)
 RUN END 2026-10-27T18:15:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle fertig
 Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
 RUN START 2026-10-28T06:13:08Z Thema=Business
+
+## Lauf 2026-10-28 (Business Kapitel 15) Zusammenfassung
+Datum: 2026-10-28T06:18:00Z
+Thema: Business
+Slug: da-sodagari-zehniyat
+Titel: د سوداګرۍ ذهنیت
+Untertitel: د بریالیتوب لپاره پنځلسم مهم اصول
+Kapitel: 15 (پنځلسم باب: د مشتري زړه ته لار)
+Kapitel-Status: abgeschlossen, ca. 800 Woerter Pashto (Melmastia-Marketingprinzip, Mundpropaganda-Kette, Kundenbindung billiger als Neuakquise, Uebertreffen der Erwartungen, Beziehungspflege ohne Verkaufsdruck)
+Cover-Status: bereits vorhanden (img/da-sodagari-zehniyat-cover.jpg, 42KB PNG)
+PDF-Status: aktualisiert (232KB, 8 Seiten via Node.js Playwright/Chromium, alle 15 Kapitel), books/da-sodagari-zehniyat.pdf
+Lesen-Seite-Status: aktualisiert mit Kapitel 15, lesen/da-sodagari-zehniyat.html
+Karten-Status: aktualisiert in index.html (Untertitel auf پنځلسم مهم اصول, Beschreibung mit Mshtari ergaenzt)
+Naechstes Thema: Roman (da-kali-khat, Kapitel 15)
+RUN END 2026-10-28T06:18:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle fertig
