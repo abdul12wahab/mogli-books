@@ -762,3 +762,5 @@ Lesen-Seite-Status: aktualisiert mit Kapitel 15, lesen/da-sodagari-zehniyat.html
 Karten-Status: aktualisiert in index.html (Untertitel auf پنځلسم مهم اصول, Beschreibung mit Mshtari ergaenzt)
 Naechstes Thema: Roman (da-kali-khat, Kapitel 15)
 RUN END 2026-10-28T06:18:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle fertig
+Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
+RUN START 2026-10-28T18:10:00Z Thema=Roman
