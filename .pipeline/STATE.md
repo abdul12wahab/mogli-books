@@ -781,3 +781,18 @@ Naechstes Thema: Persoenlichkeitsentwicklung (da-dzan-jawrawalo-lar, Kapitel 17)
 RUN END 2026-10-28T18:22:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle fertig
 Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
 RUN START 2026-10-29T06:10:52Z Thema=Persoenlichkeitsentwicklung
+
+## Lauf 2026-10-29 (Persoenlichkeitsentwicklung Kapitel 17) Zusammenfassung
+Datum: 2026-10-29T06:17:00Z
+Thema: Persoenlichkeitsentwicklung
+Slug: da-dzan-jawrawalo-lar
+Titel: د ځان جوړولو لار
+Untertitel: د پاکو عادتونو قوت
+Kapitel: 17 (اووم لسم باب: د وخت ساتنه، د ژوند حرمت)
+Kapitel-Status: abgeschlossen, ca. 900 Woerter Pashto (Tiefarbeit/Deep Work, Aufmerksamkeitskosten, Koranvers Al-Asr und Zeitwert, Körperuhr, Umgebungsgestaltung statt Willenskraft, praktische Morgenroutine)
+Cover-Status: bereits vorhanden (img/da-dzan-jawrawalo-lar-cover.jpg, 50KB)
+PDF-Status: aktualisiert (337KB, 8 Seiten via Playwright/Chromium, alle 17 Kapitel), books/da-dzan-jawrawalo-lar.pdf
+Lesen-Seite-Status: aktualisiert mit Kapitel 17, lesen/da-dzan-jawrawalo-lar.html
+Karten-Status: aktualisiert in index.html (Beschreibung auf 17 Baben und د وخت ساتنه ergaenzt)
+Naechstes Thema: Business (da-sodagari-zehniyat, Kapitel 16)
+RUN END 2026-10-29T06:17:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle fertig
