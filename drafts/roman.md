@@ -531,3 +531,103 @@ Dann haben wir noch Zeit, sagte sie, für den Rest.
 Jonas nickte. Er verstand, dass sie die Daten meinte. Die 2020er Hefter, die noch auf dem Regal lagen. Er verstand auch, dass das nicht das einzige war, was sie meinte.
 
 Er ging. Der Weg zur Pension war in zwölf Minuten zurückgelegt, er kannte ihn inzwischen auswendig. Die Insel war klein genug, dass alles wiederkehrte.
+
+## Kapitel 8: Was der Rest bedeutet
+
+Die 2020er Hefter unterschieden sich von allen vorherigen. Das merkte Jonas nicht sofort, sondern erst nach zwanzig Minuten Blättern, als er inne hielt und zurückblätterte, um zu prüfen, ob er sich geirrt hatte. Er hatte sich nicht geirrt.
+
+Die Einträge aus dem Frühjahr und Sommer 2020 waren dichter als alles, was er bisher gesehen hatte. Nicht nur in der Messfrequenz, sondern in den Notizen: längere Randbeobachtungen, manchmal zwei bis drei Sätze, gelegentlich Skizzen, kleine Bleistiftzeichnungen von Prielverläufen und Sedimentprofilen. Alma schrieb anders in diesem Jahr. Nicht weniger sorgfältig, aber als hätte sich etwas geweitet.
+
+Er legte den Hefter offen auf den Tisch und zeigte auf eine Seite vom Mai.
+
+Hier ist der Schreibstil anders.
+
+Alma saß ihm gegenüber und hatte bisher nichts gesagt. Sie schaute auf die Seite.
+
+Das war das erste Jahr, in dem ich wusste, dass ich bleibe, sagte sie. Nicht auf Ravenwatt. Ich meine, als Schreiberin dieser Hefter. Als jemand, der das weiterführt.
+
+Jonas wartete.
+
+2019 war alles probeweise. 2020 war ich schon nicht mehr neu hier. Das ändert etwas.
+
+Er sah die Einträge mit diesem Wissen noch einmal an. Die Beobachtungen zu Vogelzügen, Strandgutablagerungen nach Sturmfluten, eine Notiz vom August über das Verhalten der Strandkrabben, wenn das Wasser besonders warm wurde. Es war kein wissenschaftliches Protokoll mehr, zumindest nicht nur. Es war eine Art Praxis.
+
+Für seine Tiefenkorrekturen brachten die 2020er Einträge noch eine relevante Information: Im Oktober 2020 hatte Alma eine ungewöhnliche Sedimenttrübung notiert, die er mit einem Windereignis aus den Wetterarchiven korrelieren konnte. Der Effekt war kleiner als die Sturmflut von 2022, aber er war da, und er ergänzte sein Ablagerungsprofil an einer Stelle, die ihm bisher unklarer gewesen war als die anderen.
+
+Das war die letzte fehlende Verbindung. Er schrieb es auf und schaute dann kurz aus dem Nordfenster. Das Watt lag bei Ebbe, der Schlick schimmerte unter einem blassen Novemberlicht. In drei Wochen würde er die Insel verlassen.
+
+Er sagte: Ich möchte Sie in der Danksagung nennen.
+
+Alma schaute ihn an.
+
+Die Daten sind eine wesentliche Grundlage meiner Tiefenkalibrierung. Ohne sie wären zwei meiner Kernaussagen entweder falsch oder nicht belegbar gewesen. Das gehört genannt.
+
+Das ist Ihre Entscheidung, sagte Alma. Sie sagte es nicht abweisend, aber auch nicht dankbar. Neutral.
+
+Ich würde es gern mit Ihnen besprechen, bevor ich es tue. Nicht weil ich Erlaubnis brauche, sondern weil ich nicht weiß, ob es Ihnen recht ist.
+
+Alma stand auf und trat ans Westfenster. Die Nachmittagssonne stand flach über dem Deich. Draußen ging jemand über den Kiesweg, ein Kind, das Jonas nicht kannte, mit einem zu großen Rucksack.
+
+Ich bin seit neun Jahren nicht mehr in einem veröffentlichten Text erwähnt worden, sagte Alma. Außer in den Danksagungen meiner ehemaligen Kollegin. Das war 2016.
+
+Jonas wartete.
+
+Es ist Ihnen recht, sagte Jonas.
+
+Es ist mir recht, sagte Alma. Aber ich möchte lesen, was Sie schreiben, bevor Sie es einreichen.
+
+Das hatte er ohnehin vorgehabt. Er nickte.
+
+Sie sprachen noch eine halbe Stunde über die Methodik seines letzten Feldtags, dann klappten sie die Hefter zu. Es war das erste Mal seit seinem dritten Besuch, dass alle Hefter auf dem Tisch gelegen hatten und er das Gefühl hatte, nichts mehr übrig gelassen zu haben.
+
+Als er aufstand, sagte Alma: Heute Nachmittag, wenn das Licht noch hält. Ich gehe manchmal zum alten Aussichtspunkt am Norddeich. Falls Sie mitkommen wollen.
+
+Es war keine Einladung mit Ausschmückung. Es klang wie alle Mitteilungen, die Alma machte: als wäre das Angebot vollständig, ohne dass man etwas hinzufügen musste.
+
+Er kam mit.
+
+Der Weg zum Norddeich dauerte zwanzig Minuten. Sie gingen nebeneinander, ohne viel zu sprechen. Das Licht lag goldgelb und schräg über dem Watt, wie es nur an klaren Novembertagen passierte, wenn die Luft trocken genug war, um die Farbe nicht zu zerstreuen. Alma hatte das Fernglas dabei, das sie immer hatte, und ließ es die meiste Zeit hängen.
+
+Der Aussichtspunkt war kein offizieller, nur eine erhöhte Stelle am Deich, an der jemand irgendwann einen alten Findling halbiert und quer gelegt hatte, breit genug, um darauf zu sitzen. Alma setzte sich. Jonas blieb einen Moment stehen, dann setzte er sich daneben.
+
+Das Watt lag vor ihnen in seiner ganzen Breite. Die Priele schimmerten, das Licht fiel schräg auf die nassen Flächen und zog Linien, die man auf keiner Karte einzeichnen konnte, weil sie bei der nächsten Tide andere waren.
+
+Ich komme fast jeden Tag hierher, sagte Alma. Wenn das Wetter es erlaubt.
+
+Jonas schaute aufs Watt. Er sah nicht mit dem Blick des Geologen, nicht mit dem des Doktoranden. Er schaute einfach.
+
+Sie sitzen hier und schreiben nichts auf, sagte er.
+
+Alma sah ihn kurz an, dann wieder aufs Watt.
+
+Nein, sagte sie. Das hier ist nicht zum Aufschreiben.
+
+Er verstand das. Er hatte zuvor gedacht, er verstand es, aber jetzt saß er da und es war etwas anderes, das zu wissen und gleichzeitig auf diesem Stein zu sitzen, mit dem Licht, das verschwand.
+
+Die Flut kam langsam. In einer Stunde würde das Watt bedeckt sein.
+
+Moeller, sagte Jonas nach einer Weile, hat mir am Anfang gesagt, die Insel nähme nur die an, die blieben. Nicht die, die kommen und gehen.
+
+Alma hob kurz das Fernglas an, schaute damit irgendwohin, wo Jonas keinen besonderen Grund erkennen konnte, und ließ es wieder sinken.
+
+Moeller sagt das jedem, sagte sie. Er sagt es, weil er geblieben ist und weil es ihm wichtig ist, dass das einen Unterschied macht. Das versteht man, wenn man ihn kennt.
+
+Jonas dachte darüber nach.
+
+Macht es einen?
+
+Alma antwortete nicht sofort. Das Licht änderte sich nochmals, noch flacher jetzt, und die Priele begannen sich zu füllen, lautlos, wie immer.
+
+Für ihn schon, sagte sie schließlich. Für mich auch, glaube ich. Für Sie weiß ich es nicht. Sie gehen im Januar.
+
+Das stimmt.
+
+Sie schaute ihn an. Es war kein vorwurfsvoller Blick, kein suchender. Nur ein sachlicher.
+
+Dann kommen Sie wahrscheinlich wieder, sagte sie. Um die Daten zu zeigen.
+
+Jonas hatte daran noch nicht gedacht. Jetzt dachte er daran.
+
+Wahrscheinlich, sagte er.
+
+Das war genug für den Moment. Sie saßen noch eine Weile auf dem Stein, bis das Licht vollständig verschwunden war, und dann standen sie auf und gingen zurück, auf dem Weg, den Alma auswendig kannte und Jonas inzwischen auch.

@@ -728,3 +728,105 @@ Lesen-Seite-Status: aktualisiert mit Kapitel 14, lesen/da-kali-khat.html
 Karten-Status: aktualisiert in index.html (Beschreibung auf 14 Kapitel und د مور لپاره ergaenzt)
 Naechstes Thema: Persoenlichkeitsentwicklung (da-dzan-jawrawalo-lar, Kapitel 16)
 RUN END 2026-10-27T06:18:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle fertig
+Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
+RUN START 2026-10-27T18:10:35Z Thema=Persoenlichkeitsentwicklung
+
+## Lauf 2026-10-27 (Persoenlichkeitsentwicklung Kapitel 16) Zusammenfassung
+Datum: 2026-10-27T18:15:00Z
+Thema: Persoenlichkeitsentwicklung
+Slug: da-dzan-jawrawalo-lar
+Titel: د ځان جوړولو لار
+Untertitel: د پاکو عادتونو قوت
+Kapitel: 16 (شپاړسم باب: د شکرګزارۍ ځواک)
+Kapitel-Status: abgeschlossen, ca. 900 Woerter Pashto (Dankbarkeit/Shukr, Quran-Vers lئن شکرتم لازیدنکم, Forschungsergebnisse, Pashto-Kultur, praktische Ubungen, Zibane und Amal Shukr)
+Cover-Status: bereits vorhanden (img/da-dzan-jawrawalo-lar-cover.jpg)
+PDF-Status: aktualisiert (326KB, 8 Seiten via Playwright/Chromium, alle 16 Kapitel), books/da-dzan-jawrawalo-lar.pdf
+Lesen-Seite-Status: aktualisiert mit Kapitel 16, lesen/da-dzan-jawrawalo-lar.html
+Karten-Status: aktualisiert in index.html (Beschreibung auf 16 Kapitel und شکرګزارۍ ځواک ergaenzt)
+Naechstes Thema: Business (da-sodagari-zehniyat, Kapitel 15)
+RUN END 2026-10-27T18:15:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle fertig
+Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
+RUN START 2026-10-28T06:13:08Z Thema=Business
+
+## Lauf 2026-10-28 (Business Kapitel 15) Zusammenfassung
+Datum: 2026-10-28T06:18:00Z
+Thema: Business
+Slug: da-sodagari-zehniyat
+Titel: د سوداګرۍ ذهنیت
+Untertitel: د بریالیتوب لپاره پنځلسم مهم اصول
+Kapitel: 15 (پنځلسم باب: د مشتري زړه ته لار)
+Kapitel-Status: abgeschlossen, ca. 800 Woerter Pashto (Melmastia-Marketingprinzip, Mundpropaganda-Kette, Kundenbindung billiger als Neuakquise, Uebertreffen der Erwartungen, Beziehungspflege ohne Verkaufsdruck)
+Cover-Status: bereits vorhanden (img/da-sodagari-zehniyat-cover.jpg, 42KB PNG)
+PDF-Status: aktualisiert (232KB, 8 Seiten via Node.js Playwright/Chromium, alle 15 Kapitel), books/da-sodagari-zehniyat.pdf
+Lesen-Seite-Status: aktualisiert mit Kapitel 15, lesen/da-sodagari-zehniyat.html
+Karten-Status: aktualisiert in index.html (Untertitel auf پنځلسم مهم اصول, Beschreibung mit Mshtari ergaenzt)
+Naechstes Thema: Roman (da-kali-khat, Kapitel 15)
+RUN END 2026-10-28T06:18:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle fertig
+Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
+RUN START 2026-10-28T18:10:00Z Thema=Roman
+
+## Lauf 2026-10-28 (Roman Kapitel 15) Zusammenfassung
+Datum: 2026-10-28T18:22:00Z
+Thema: Roman
+Slug: da-kali-khat
+Titel: د کلي خط
+Untertitel: د یوه ورک نیکه کیسه
+Kapitel: 15 (پنځلسم باب: د قبول لیک)
+Kapitel-Status: abgeschlossen, ca. 800 Woerter Pashto (Nowruz erhaelt Annahme-Email vom Aljahatt-Journal, ruft Haji Gul an, Haji Guls bewegte Reaktion, Besuch in Babakai, Nowruz beginnt das vollstaendige Manuskript)
+Cover-Status: bereits vorhanden (img/da-kali-khat-cover.jpg, 38KB PNG)
+PDF-Status: aktualisiert (315KB, 8 Seiten via Playwright/Chromium, alle 15 Kapitel), books/da-kali-khat.pdf
+Lesen-Seite-Status: aktualisiert mit Kapitel 15, lesen/da-kali-khat.html
+Karten-Status: aktualisiert in index.html (Beschreibung auf 15 Kapitel und د قبول لیک ergaenzt)
+Naechstes Thema: Persoenlichkeitsentwicklung (da-dzan-jawrawalo-lar, Kapitel 17)
+RUN END 2026-10-28T18:22:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle fertig
+Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
+RUN START 2026-10-29T06:10:52Z Thema=Persoenlichkeitsentwicklung
+
+## Lauf 2026-10-29 (Persoenlichkeitsentwicklung Kapitel 17) Zusammenfassung
+Datum: 2026-10-29T06:17:00Z
+Thema: Persoenlichkeitsentwicklung
+Slug: da-dzan-jawrawalo-lar
+Titel: د ځان جوړولو لار
+Untertitel: د پاکو عادتونو قوت
+Kapitel: 17 (اووم لسم باب: د وخت ساتنه، د ژوند حرمت)
+Kapitel-Status: abgeschlossen, ca. 900 Woerter Pashto (Tiefarbeit/Deep Work, Aufmerksamkeitskosten, Koranvers Al-Asr und Zeitwert, Körperuhr, Umgebungsgestaltung statt Willenskraft, praktische Morgenroutine)
+Cover-Status: bereits vorhanden (img/da-dzan-jawrawalo-lar-cover.jpg, 50KB)
+PDF-Status: aktualisiert (337KB, 8 Seiten via Playwright/Chromium, alle 17 Kapitel), books/da-dzan-jawrawalo-lar.pdf
+Lesen-Seite-Status: aktualisiert mit Kapitel 17, lesen/da-dzan-jawrawalo-lar.html
+Karten-Status: aktualisiert in index.html (Beschreibung auf 17 Baben und د وخت ساتنه ergaenzt)
+Naechstes Thema: Business (da-sodagari-zehniyat, Kapitel 16)
+RUN END 2026-10-29T06:17:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle fertig
+Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
+RUN START 2026-10-29T18:11:00Z Thema=Business
+
+## Lauf 2026-10-29 (Business Kapitel 16) Zusammenfassung
+Datum: 2026-10-29T18:30:00Z
+Thema: Business
+Slug: da-sodagari-zehniyat
+Titel: د سوداګرۍ ذهنیت
+Untertitel: د بریالیتوب لپاره شپاړسم مهم اصول
+Kapitel: 16 (شپاړسم باب: د قیمت ټاکلو هنر)
+Kapitel-Status: abgeschlossen, ca. 850 Woerter Pashto (Wert vs. Preis, kostenbasierter Mindestpreis, keine Rabattschlacht, wertbasierte Preisgestaltung, psychologische Preissetzung, saisonale Transparenz, Loyalitaets-Rabatt)
+Cover-Status: bereits vorhanden (img/da-sodagari-zehniyat-cover.jpg, 42KB PNG 256x256)
+PDF-Status: aktualisiert (246KB via Playwright/Chromium, alle 16 Kapitel), books/da-sodagari-zehniyat.pdf
+Lesen-Seite-Status: aktualisiert mit Kapitel 16 und Untertitel شپاړسم, lesen/da-sodagari-zehniyat.html
+Karten-Status: aktualisiert in index.html (Untertitel auf شپاړسم, Beschreibung um د قیمت ټاکلو هنر ergaenzt)
+Naechstes Thema: Roman (da-kali-khat, Kapitel naechster Lauf)
+RUN END 2026-10-29T18:30:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle fertig
+Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
+RUN START 2026-10-30T06:13:06Z Thema=Roman
+
+## Lauf 2026-10-30 (Roman Kapitel 16) Zusammenfassung
+Datum: 2026-10-30T06:13:06Z
+Thema: Roman
+Slug: da-kali-khat
+Titel: د کلي خط
+Untertitel: د یوه ورک نیکه کیسه
+Kapitel: 16 (شپاړسم باب: د کتاب وروستی ورق)
+Kapitel-Status: abgeschlossen, ca. 900 Woerter Pashto (Nowruz fertigstellt Manuskript, Verlag nimmt Buch an, Haji Gul erfaehrt Nachricht, Familienstimmen, Kreis schliesst sich)
+Cover-Status: bereits vorhanden (img/da-kali-khat-cover.jpg, 38KB PNG)
+PDF-Status: aktualisiert (90KB, 44 Seiten via fpdf2/python3.13, alle 16 Kapitel), books/da-kali-khat.pdf
+Lesen-Seite-Status: aktualisiert mit Kapitel 16, lesen/da-kali-khat.html
+Karten-Status: aktualisiert in index.html (Beschreibung auf 16 Kapitel und د کتاب وروستی ورق ergaenzt)
+Naechstes Thema: Persoenlichkeitsentwicklung (da-dzan-jawrawalo-lar, Kapitel 18)
+RUN END 2026-10-30T06:13:06Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle fertig

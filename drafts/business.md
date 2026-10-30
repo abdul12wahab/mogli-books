@@ -305,3 +305,51 @@ Im vorigen Kapitel wurden Systeme als Dokumentation von Abläufen beschrieben, d
 Wer jemanden einarbeitet und dabei merkt, dass er die eigenen Abläufe nicht erklären kann, ohne dabei alles selbst zu tun, hat ein Hinweis erhalten, der mit der Einstellung selbst nichts zu tun hat. Das Fundament war noch nicht fertig. Das ist kein Grund, die Einstellung zu bereuen. Es ist ein Grund, das Aufschreiben und Strukturieren jetzt ernstzunehmen, weil es sonst bei zwei Mitarbeitern oder fünf nicht besser wird, sondern schlechter.
 
 Die erste Einstellung ist damit kein Abschluss, sondern ein Test. Ein Test dafür, ob das Unternehmen so aufgestellt ist, dass Wissen übertragen werden kann. Wer diesen Test besteht, hat mehr als einen Mitarbeiter gewonnen. Er hat bestätigt, dass das, was in den vergangenen Kapiteln über Nische, Systeme und Struktur beschrieben wurde, in der Praxis hält.
+
+---
+
+## Kapitel 8: Wer bleibt und warum
+
+Die meisten kleinen Unternehmen messen sich daran, wie viele neue Kunden sie gewonnen haben. Selten messen sie, wie viele sie verloren haben. Das ist ein blinder Fleck, der teuer werden kann, ohne dass er jemals sichtbar wird.
+
+Dabei ist der Zusammenhang klar genug, um ihn in einer Zahl auszudrücken: Einen Bestandskunden zu halten kostet in der Regel erheblich weniger als einen neuen zu gewinnen. Wer schon bei einem Unternehmen gekauft hat, kennt die Leistung. Er braucht keine Überzeugungsarbeit, keinen langen Entscheidungsprozess, keine Erstberatung. Er weiß, was er bekommt, und wenn das gut war, wird er wiederkommen, sofern man ihn nicht vergisst.
+
+Genau das passiert aber häufig. Ein Projekt endet, die Zusammenarbeit war gut, und dann herrscht Stille. Nicht aus Gleichgültigkeit, sondern weil der nächste Auftrag wartet und der bestehende Kunde als erledigt gilt. Aus Kundensicht sieht das anders aus. Er erinnert sich an die Zusammenarbeit und fragt sich, ob ihm das Unternehmen wichtig genug ist, um nach dem Abschluss noch da zu sein.
+
+**Der Unterschied zwischen zufrieden und gebunden**
+
+Zufriedenheit und Kundenbindung sind nicht dasselbe. Ein Kunde, der zufrieden war, kehrt möglicherweise zurück. Er kehrt aber auch möglicherweise zum nächsten günstigeren Anbieter, der gerade sichtbar ist, weil er einfach keine Veranlassung hatte, sich zu erinnern. Kundenbindung setzt etwas voraus, das über ein gelungenes Projekt hinausgeht: eine Beziehung, die auch zwischen den Projekten existiert.
+
+Das bedeutet nicht, dass man seine Kunden ständig kontaktieren muss. Aufdringliche Newsletter, ungebetene Anrufe und künstliche Anlässe für den Kontakt tun das Gegenteil von dem, was sie sollen. Sie signalisieren Verkaufsinteresse, nicht Interesse am Kunden. Was hingegen wirkt, ist ehrliche Aufmerksamkeit zum richtigen Zeitpunkt. Ein kurzer Hinweis auf etwas, das für diesen konkreten Kunden relevant sein könnte. Eine Rückmeldung, ob die damalige Lösung das gebracht hat, was sie sollte. Eine direkte Frage, wie die Situation sich entwickelt hat.
+
+Das sind keine großen Gesten. Aber sie zeigen, dass jemand aufmerksam war. Und das ist das Entscheidende: Kunden, die das Gefühl haben, nicht vergessen worden zu sein, verhalten sich anders als solche, die sich nach dem Abschluss als Transaktion gefühlt haben.
+
+**Was Bestandskunden wirklich brauchen**
+
+Hier hilft wieder die Nischenperspektive aus dem ersten Kapitel. Wer eine enge Zielgruppe kennt, weiß auch, was deren Situation typischerweise treibt. Welche Fragen kommen nach einem Abschluss auf? Welche Folgethemen entstehen aus dem, was zusammen erarbeitet wurde? Welche Veränderungen in der Branche oder im Umfeld der Kunden könnten relevant sein?
+
+Ein Anbieter, der diese Fragen beantworten kann, hat eine Grundlage für echten Kontakt. Nicht als Vertriebsstrategie, sondern weil er tatsächlich etwas Nützliches zu sagen hat. Ein Hinweis, der zum richtigen Zeitpunkt kommt und sich auf eine konkrete Situation des Kunden bezieht, ist mehr wert als fünf generische E-Mails mit Neuigkeiten, die niemanden interessieren.
+
+Das gelingt nur, wenn man die eigenen Kunden als Personen oder Unternehmen in einer Entwicklung wahrnimmt, nicht als abgeschlossene Fälle. Wer bei der Zusammenarbeit aufgeschrieben hat, was für den Kunden wichtig war, wer das in einigen Sätzen festhält, bevor das Projekt aus dem Fokus rückt, hat sechs Monate später immer noch einen Ausgangspunkt für ein sinnvolles Gespräch.
+
+**Die Kosten der Fluktuation**
+
+Kundenverlust ist selten dramatisch. Kunden gehen meistens nicht wütend. Sie gehen einfach. Kein Anruf, kein Brief, keine Erklärung. Irgendwann kommt ein Auftrag nicht mehr. Das fällt erst auf, wenn man zurückschaut und bemerkt, dass ein Kunde, der früher regelmäßig etwas beauftragt hat, seit einem Jahr nicht mehr aufgetaucht ist.
+
+Dieser stille Abgang ist das Schwierige an Kundenabwanderung. Er gibt kein Feedback. Er hinterlässt keinen Hinweis darauf, was hätte besser laufen sollen. Und weil es keinen sichtbaren Moment gab, an dem etwas schiefgelaufen ist, liegt die Ursache oft in etwas, das nicht passiert ist: kein Kontakt nach dem Abschluss, keine Erinnerung daran, dass das Unternehmen da ist, kein Anlass, zurückzukehren.
+
+Wer dieses Muster früh erkennen will, muss messen. Nicht mit komplizierten Systemen, aber zumindest mit einer einfachen Frage, die regelmäßig gestellt wird: Welche Kunden der letzten zwei Jahre haben seitdem nicht mehr gekauft? Diese Liste liefert Informationen, die kein Neukundenbericht liefert. Sie zeigt, wo Verbindungen abgebrochen sind, und manchmal auch, ob dafür ein Grund erkennbar ist.
+
+**Was mit einem Team möglich wird**
+
+Im vorigen Kapitel wurde beschrieben, wie die erste Einstellung das Verhältnis zwischen dem Gründer und der eigentlichen Arbeit verändert. Eine oft übersehene Konsequenz dieser Verschiebung ist, dass sie auch die Kapazität für Kundenpflege verändern kann. Wer nicht mehr allein für alles zuständig ist, hat im Idealfall mehr Raum für die Kontakte, die nicht unmittelbar produktiv sind, aber langfristig wirken.
+
+Das funktioniert allerdings nur, wenn die Verantwortung klar ist. Wenn im Team niemand explizit für den Kontakt zu Bestandskunden zuständig ist, fällt er durch alle Raster. Jeder denkt, jemand anderes hat sich gemeldet. Diese Lücke ist leicht zu schließen, aber sie muss bewusst geschlossen werden. Wer festlegt, dass nach jedem abgeschlossenen Projekt ein konkreter Schritt folgt, ein Kontakt nach einem Monat, eine Frage nach drei Monaten, der baut eine Gewohnheit auf, die sich auf Dauer selbst trägt.
+
+**Keine Programme, sondern Haltung**
+
+Es gibt Unternehmen, die viel Energie in Kundenbindungsprogramme stecken: Punkte, Rabattcards, Mitgliedsvorteile. Für bestimmte Geschäftsmodelle funktioniert das. Für die meisten kleinen Unternehmen mit überschaubaren Kundenstämmen ist es das Falsche. Nicht weil Programme per se schlecht wären, sondern weil sie eine Infrastruktur ersetzen wollen, die eigentlich aus Aufmerksamkeit und Qualität besteht.
+
+Ein kleines Unternehmen, das seine fünfzig oder hundert wichtigsten Kunden wirklich kennt, das ihre Situation versteht und zum richtigen Zeitpunkt da ist, hat eine Bindung, die kein Punkteprogramm herstellen kann. Diese Bindung ist nicht skalierbar im industriellen Sinne. Aber sie ist das, was ein kleines Unternehmen von einem großen unterscheidet, und zwar zu seinen Gunsten.
+
+Was hält, ist nicht das Programm. Es ist das Gespräch, das geführt wurde, bevor jemand überhaupt daran gedacht hat, woanders zu schauen.
