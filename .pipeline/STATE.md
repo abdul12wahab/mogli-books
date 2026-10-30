@@ -813,3 +813,5 @@ Lesen-Seite-Status: aktualisiert mit Kapitel 16 und Untertitel شپاړسم, les
 Karten-Status: aktualisiert in index.html (Untertitel auf شپاړسم, Beschreibung um د قیمت ټاکلو هنر ergaenzt)
 Naechstes Thema: Roman (da-kali-khat, Kapitel naechster Lauf)
 RUN END 2026-10-29T18:30:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle fertig
+Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
+RUN START 2026-10-30T06:13:06Z Thema=Roman
