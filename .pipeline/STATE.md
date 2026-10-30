@@ -830,3 +830,5 @@ Lesen-Seite-Status: aktualisiert mit Kapitel 16, lesen/da-kali-khat.html
 Karten-Status: aktualisiert in index.html (Beschreibung auf 16 Kapitel und د کتاب وروستی ورق ergaenzt)
 Naechstes Thema: Persoenlichkeitsentwicklung (da-dzan-jawrawalo-lar, Kapitel 18)
 RUN END 2026-10-30T06:13:06Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle fertig
+Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
+RUN START 2026-10-30T18:11:00Z Thema=Persoenlichkeitsentwicklung
