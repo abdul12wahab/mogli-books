@@ -815,3 +815,18 @@ Naechstes Thema: Roman (da-kali-khat, Kapitel naechster Lauf)
 RUN END 2026-10-29T18:30:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle fertig
 Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
 RUN START 2026-10-30T06:13:06Z Thema=Roman
+
+## Lauf 2026-10-30 (Roman Kapitel 16) Zusammenfassung
+Datum: 2026-10-30T06:13:06Z
+Thema: Roman
+Slug: da-kali-khat
+Titel: د کلي خط
+Untertitel: د یوه ورک نیکه کیسه
+Kapitel: 16 (شپاړسم باب: د کتاب وروستی ورق)
+Kapitel-Status: abgeschlossen, ca. 900 Woerter Pashto (Nowruz fertigstellt Manuskript, Verlag nimmt Buch an, Haji Gul erfaehrt Nachricht, Familienstimmen, Kreis schliesst sich)
+Cover-Status: bereits vorhanden (img/da-kali-khat-cover.jpg, 38KB PNG)
+PDF-Status: aktualisiert (90KB, 44 Seiten via fpdf2/python3.13, alle 16 Kapitel), books/da-kali-khat.pdf
+Lesen-Seite-Status: aktualisiert mit Kapitel 16, lesen/da-kali-khat.html
+Karten-Status: aktualisiert in index.html (Beschreibung auf 16 Kapitel und د کتاب وروستی ورق ergaenzt)
+Naechstes Thema: Persoenlichkeitsentwicklung (da-dzan-jawrawalo-lar, Kapitel 18)
+RUN END 2026-10-30T06:13:06Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle fertig
