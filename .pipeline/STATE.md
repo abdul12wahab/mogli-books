@@ -832,3 +832,18 @@ Naechstes Thema: Persoenlichkeitsentwicklung (da-dzan-jawrawalo-lar, Kapitel 18)
 RUN END 2026-10-30T06:13:06Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle fertig
 Netzwerktest: 000 (403 proxy-blockiert fuer pixabay.com)
 RUN START 2026-10-30T18:11:00Z Thema=Persoenlichkeitsentwicklung
+
+## Lauf 2026-10-30 (Persoenlichkeitsentwicklung Kapitel 18) Zusammenfassung
+Datum: 2026-10-30T18:30:00Z
+Thema: Persoenlichkeitsentwicklung
+Slug: da-dzan-jawrawalo-lar
+Titel: د ځان جوړولو لار
+Untertitel: د پاکو عادتونو قوت
+Kapitel: 18 (اتلسم باب: د ژوند مقصد موندل)
+Kapitel-Status: abgeschlossen, ca. 750 Woerter Pashto (Ikigai-Konzept, Viktor Frankl, islamische Lebenszweckdefinition Quran-Vers, drei praktische Wege zum Zweck, Pashtunische Weisheit)
+Cover-Status: bereits vorhanden (img/da-dzan-jawrawalo-lar-cover.jpg, 50KB JPEG)
+PDF-Status: aktualisiert (357KB, 8 Seiten via Playwright/Chromium, alle 18 Kapitel), books/da-dzan-jawrawalo-lar.pdf
+Lesen-Seite-Status: aktualisiert mit Kapitel 18, lesen/da-dzan-jawrawalo-lar.html
+Karten-Status: aktualisiert in index.html (Beschreibung auf 18 Kapitel und د ژوند مقصد موندل ergaenzt)
+Naechstes Thema: Business (da-sodagari-zehniyat, Kapitel 17)
+RUN END 2026-10-30T18:30:00Z STATUS=SUCCESS DETAILS=Text+PDF+LesenSeite+Karte alle fertig
