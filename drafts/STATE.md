@@ -27,11 +27,12 @@
 | 2026-10-28   | Business                    | 8       | Roman                       |
 | 2026-10-29   | Roman                       | 8       | Persoenlichkeitsentwicklung |
 | 2026-10-30   | Persoenlichkeitsentwicklung | 9       | Business                    |
+| 2026-10-31   | Business                    | 9       | Roman                       |
 
 ## Kapitelstand je Thema
 
 - Persoenlichkeitsentwicklung: Kapitel 9
-- Business: Kapitel 8
+- Business: Kapitel 9
 - Roman: Kapitel 8
 
 ## Roman-Metadaten
